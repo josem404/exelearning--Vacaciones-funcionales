@@ -1,0 +1,575 @@
+1
+00:00:06,690 --> 00:00:11,850
+En este caso vamos a estudiar como una 
+sustancia radioactiva va perdiendo ese carácter,  
+
+2
+00:00:11,850 --> 00:00:17,040
+el carácter de radioactividad, y tenemos el 
+siguiente problema. Una sustancia dice que va  
+
+3
+00:00:17,040 --> 00:00:22,950
+perdiendo ese carácter radioactivo con el tiempo, 
+la función que determina la cantidad de material  
+
+4
+00:00:22,950 --> 00:00:31,050
+radioactivo en función del tiempo es esta función 
+C(x) igual a C(o) por 2 elevado a menos t partido  
+
+5
+00:00:31,050 --> 00:00:37,740
+por n. Vamos a ver lo que es cada una de esas 
+letras ¿no? Vamos a ver. C(x) es la cantidad  
+
+6
+00:00:37,740 --> 00:00:42,300
+de material radioactivo tras un determinado 
+número de años, es decir, que esto de aquí,  
+
+7
+00:00:42,300 --> 00:00:48,180
+es la cantidad de material que hay en el momento 
+que yo lo calculé, en el momento... digamos hoy  
+
+8
+00:00:48,180 --> 00:00:54,660
+han pasado tres años, bueno pues al calcular qué 
+material hay a los tres años, pues C(x) representa  
+
+9
+00:00:54,660 --> 00:01:00,330
+esa cantidad de material radioactivo pasados 
+tres años, pasados 20 años, según el tiempo que  
+
+10
+00:01:00,330 --> 00:01:07,140
+yo ponga aquí en la fórmula. Bueno, la cantidad de 
+material que hay en un determinado momento C(x). 
+
+11
+00:01:07,140 --> 00:01:13,500
+C(o) es la cantidad de material radioactivo que 
+había inicialmente ,es decir, esto de aquí,  
+
+12
+00:01:13,500 --> 00:01:19,530
+C(o) es la cantidad de material que había al 
+principio. Por ejemplo, si ha habido un problema  
+
+13
+00:01:19,530 --> 00:01:24,590
+en una central nuclear y ha habido un escape de 
+material radiactivo, pues si se han perdido 5  
+
+14
+00:01:24,590 --> 00:01:31,880
+kilos de material radiactivo, pues eso sería Co, 
+la cantidad de material que hay inicialmente en el  
+
+15
+00:01:31,880 --> 00:01:39,740
+terreno y que hay que intentar limpiar. Eso es Co.
+t es el tiempo transcurrido en años, aquí tenéis  
+
+16
+00:01:39,740 --> 00:01:47,630
+t. Evidentemente, pues si t es el tiempo 
+en años, parece claro pensar que cuanto  
+
+17
+00:01:47,630 --> 00:01:51,920
+más tiempo pase pues esta cantidad de aquí, 
+que es la cantidad de material radioactivo,  
+
+18
+00:01:51,920 --> 00:01:58,400
+pues debe ir bajando, ¿verdad? Porque el 
+material radioactivo va perdiendo con el  
+
+19
+00:01:58,400 --> 00:02:04,580
+tiempo ese carácter radioactivo, afortunadamente 
+claro, porque ya sabéis que es muy muy peligroso. 
+
+20
+00:02:04,580 --> 00:02:09,860
+Y, finalmente, n que es esto que hay aquí, 
+que está en el exponente también, es el  
+
+21
+00:02:09,860 --> 00:02:16,040
+período de semidesintegración. Bien, el período 
+de semidesintegración significa que es el tiempo  
+
+22
+00:02:16,040 --> 00:02:23,690
+que tarda ese material radioactivo en reducir en 
+reducirse a la mitad. Por ejemplo, si tenemos 100  
+
+23
+00:02:23,690 --> 00:02:28,700
+gramos de material radioactivo, pues el período 
+de semidesintegración es el tiempo que hace falta  
+
+24
+00:02:28,700 --> 00:02:34,850
+que pase para que esos 100 gramos radioactivos se 
+conviertan solamente en 50 gramos radioactivos,  
+
+25
+00:02:34,850 --> 00:02:41,360
+eso es el período de semidesintegración, el tiempo 
+que hace falta, el tiempo necesario para que el  
+
+26
+00:02:41,360 --> 00:02:47,900
+material radiactivo se reduzca a la mitad.
+Bueno, y nos dicen lo siguiente: sabemos que  
+
+27
+00:02:47,900 --> 00:02:58,280
+en el año 1966 hubo un problema y habían 3 kilos 
+de plutonio 239, plutonio que es radioactivo, es  
+
+28
+00:02:58,280 --> 00:03:06,290
+decir, que si habían 3 kilos en el año 1966 están 
+hablando, ¿verdad?, de C(o), de la cantidad inicial. 
+
+29
+00:03:06,290 --> 00:03:12,470
+Y nos dicen, y sabiendo que el periodo de 
+semidesintegración, es decir, n, de ese  
+
+30
+00:03:12,470 --> 00:03:19,250
+plutonio es de 24110 años. Fijaos qué barbaridad, 
+para que la cantidad de plutonio radioactivo  
+
+31
+00:03:19,250 --> 00:03:23,930
+se reduzca a la mitad necesitamos 24110 años. 
+¿Vale? Ese es su período de semidesintegración. 
+
+32
+00:03:23,930 --> 00:03:29,430
+Y nos piden: la cantidad de plutonio 
+radiactivo que queda hoy día,  
+
+33
+00:03:29,430 --> 00:03:36,540
+en el año 2021, y la que quedará cuando hayan 
+pasado 100 años, 100 años con respecto a 1966. 
+
+34
+00:03:38,160 --> 00:03:41,490
+Luego me dice: qué tiempo ha de transcurrir 
+para que queden dos kilos de plutonio,  
+
+35
+00:03:41,490 --> 00:03:45,300
+solamente queden dos kilos, en vez de tres 
+que eran los que había inicialmente. Para  
+
+36
+00:03:45,300 --> 00:03:49,810
+que queden dos kilos de plutonio 239.
+Vamos a ver cómo se resuelve el problema  
+
+37
+00:03:49,810 --> 00:03:53,950
+que parece muy complicado porque el enunciado es 
+muy largo, pero resulta que no es tan difícil. 
+
+38
+00:03:53,950 --> 00:04:00,070
+Bueno, vamos con el apartado a, y vamos a apuntar 
+primero los datos que nos dan: nos dicen que Co,  
+
+39
+00:04:00,640 --> 00:04:06,670
+es decir, la cantidad inicial de plutonio es 
+de 3 kilos, esto nos lo dice en el enunciado,  
+
+40
+00:04:06,670 --> 00:04:12,820
+3 kilos en el año 1966 . Sabemos también 
+que el período de semidesintegración,  
+
+41
+00:04:12,820 --> 00:04:23,620
+es decir, n, luego nos dan otro dato que es 
+necesario, es de 24110 años, unos pocos años,  
+
+42
+00:04:24,920 --> 00:04:30,650
+pues unos cuantos. Y, ahora nos preguntan: 
+la cantidad de plutonio que queda hoy día.  
+
+43
+00:04:30,650 --> 00:04:34,490
+Pues si nos están preguntando por la 
+cantidad de plutonio que queda hoy día,  
+
+44
+00:04:34,490 --> 00:04:43,490
+nos están preguntando por C(x), es decir, que 
+es la incógnita es esta cantidad de plutonio  
+
+45
+00:04:46,530 --> 00:04:52,470
+a día de hoy, o sea, en el año 2021. 
+Eso es lo que me están preguntando C(x),  
+
+46
+00:04:54,840 --> 00:04:57,990
+y la que quedará cuando hayan pasado 100 años.
+Bueno, ahora lo veremos. 
+
+47
+00:04:57,990 --> 00:05:04,860
+Bueno, vamos a ver. Si me están preguntando la 
+cantidad de plutonio que queda en el año 2021,  
+
+48
+00:05:04,860 --> 00:05:10,710
+que hay ahora mismo en el año 2021, lo que tenemos 
+que saber es qué tiempo ha transcurrido desde el  
+
+49
+00:05:10,710 --> 00:05:19,180
+año 1966. Pues lo único que hay que hacer es 
+una resta ¿verdad? , luego 2021 menos 1966,  
+
+50
+00:05:19,180 --> 00:05:28,060
+pues eso os da que han pasado 55 años. Ya lo 
+tenemos, ese es el tiempo que ha pasado. Bueno  
+
+51
+00:05:28,060 --> 00:05:35,460
+y esto es... eso es t, porque ese es el tiempo 
+transcurrido desde que se produjo pues ese escape  
+
+52
+00:05:35,460 --> 00:05:40,830
+de material radioactivo, luego esto es t.
+Bueno, pues ya tenemos todo, porque tenemos  
+
+53
+00:05:40,830 --> 00:05:50,040
+Co que son 3, tenemos t que son 55 años y 
+tenemos n, que nos lo dan, que es 24110.  
+
+54
+00:05:50,040 --> 00:05:54,240
+Luego lo único que hay hacer es sustituir.
+Luego, entonces vamos a sustituir en la fórmula,  
+
+55
+00:05:54,240 --> 00:06:01,410
+la fórmula vamos a ponerla por aquí, 
+C(x) es igual a Co por 2 elevado a  
+
+56
+00:06:01,410 --> 00:06:08,160
+menos t partido por n y sustituimos.
+Como nosotros lo que vamos a hacer,  
+
+57
+00:06:08,160 --> 00:06:12,540
+bueno en este caso fijaos vamos a cambiar aquí 
+una cosa, he puesto C(x), pero en realidad estaría  
+
+58
+00:06:12,540 --> 00:06:21,770
+mucho mejor poner C(t), ¿verdad que sí?, porque en 
+realidad la cantidad de material radioactivo que  
+
+59
+00:06:21,770 --> 00:06:28,430
+queda, vamos a cambiarlo aquí también, depende del 
+tiempo. En este caso es que a la x le hemos dado,  
+
+60
+00:06:28,430 --> 00:06:32,990
+le hemos puesto la letra t, le vamos 
+a poner C(t), vamos a hacerlo bien. 
+
+61
+00:06:32,990 --> 00:06:43,830
+Luego entonces, en vez de t voy a poner 55. 
+Luego C(55) es igual a C(o), bueno pues los tres  
+
+62
+00:06:43,830 --> 00:06:51,900
+kilos que habían inicialmente, por dos elevado 
+a menos, y ahora, t que son 55 dividido entre  
+
+63
+00:06:53,540 --> 00:07:01,310
+n que es, nada más y nada menos, que 24110 años.
+Bueno, pues si coges la calculadora y eleváis 2,  
+
+64
+00:07:01,310 --> 00:07:08,450
+ponéis 2, ponéis un paréntesis y ponéis menos 
+55 entre 24110, cerráis paréntesis igual y, lo  
+
+65
+00:07:08,450 --> 00:07:20,270
+que salga, lo multiplicas por 3, pues ya os digo 
+yo que eso os va a salir 2,995 kilos de plutonio  
+
+66
+00:07:22,170 --> 00:07:28,380
+239. Eso es todavía la cantidad de 
+material que queda de plutonio radioactivo. 
+
+67
+00:07:28,380 --> 00:07:32,370
+Fijaos que han pasado 55 años habían 3 kilos 
+y prácticamente queda la misma cantidad. 
+
+68
+00:07:32,370 --> 00:07:37,200
+Bueno, y ahora la segunda parte del apartado 
+a, pues es muy fácil, porque me dicen que qué  
+
+69
+00:07:37,200 --> 00:07:41,340
+cantidad queda dentro de 100 años. Pues 
+si el tiempo que ha transcurrido es 100,  
+
+70
+00:07:41,340 --> 00:07:49,700
+pues lo único que hace es sustituir en la fórmula, 
+todo igual, C(o) lo mismo, pero en vez de poner 55  
+
+71
+00:07:49,700 --> 00:07:57,200
+vamos a poner 100, que es la cantidad de años 
+que me dicen partido de 24110. Si hacéis estas  
+
+72
+00:07:57,200 --> 00:08:11,400
+cuentas esto sale 2,991 kilos. Si pasáis esto a 
+gramos, pues serían 2995 gramos y 2991 gramos.  
+
+73
+00:08:11,400 --> 00:08:17,640
+Si os fijáis, hay una diferencia, solamente, 
+vamos a ponerlo por aquí, de cuatro gramos 
+
+74
+00:08:18,950 --> 00:08:29,270
+Fijaos que, en 45 años hemos bajado solamente 
+4 gramos y en 55 habíamos bajado 5. Bueno, pues  
+
+75
+00:08:29,270 --> 00:08:34,430
+la verdad es que esto no es muy alentador, porque 
+fijaos con qué lentitud va perdiendo el carácter  
+
+76
+00:08:34,430 --> 00:08:41,210
+radioactivo un elemento como el plutonio-239.
+Pues ahí está, ahí está la peligrosidad. 
+
+77
+00:08:41,210 --> 00:08:44,180
+Vamos con él b. Nos dice: ¿qué 
+el tiempo ha de transcurrir  
+
+78
+00:08:44,180 --> 00:08:49,100
+para que queden dos kilos de plutonio 239?
+En este caso me están preguntando qué tiempo,  
+
+79
+00:08:49,100 --> 00:08:54,140
+luego están preguntando por la t. Luego la 
+t va a ser la incógnita y me dan un dato,  
+
+80
+00:08:54,140 --> 00:08:58,880
+dice que van a quedar dos kilos. Pues si van 
+a quedar dos kilos lo que me están dando es C,  
+
+81
+00:09:00,430 --> 00:09:05,090
+es decir , C me están diciendo que es 
+2 kilos, esta es la cantidad que queda. 
+
+82
+00:09:05,090 --> 00:09:11,090
+Ya sabemos que Co, la cantidad inicial 
+son 3 kilos, y que n es 24.110,  
+
+83
+00:09:11,090 --> 00:09:17,490
+luego volvemos otra vez a nuestra fórmula.
+Vamos a ponerlo otra vez por aquí, C(t) es igual  
+
+84
+00:09:17,490 --> 00:09:24,750
+a C(o) por dos elevado a menos t partido por n.
+Y sustituimos: ahora conocemos la cantidad  
+
+85
+00:09:24,750 --> 00:09:30,540
+de material que ha quedado que son dos kilos, 
+pues 2 es igual a C(o), que también lo conocemos,  
+
+86
+00:09:30,540 --> 00:09:37,200
+son los 3 kilos que había al principio, por 2 
+elevado a menos t, que esto no lo conocemos,  
+
+87
+00:09:37,200 --> 00:09:43,920
+partido de n que es 24110.
+Evidentemente, pues aquí lo  
+
+88
+00:09:43,920 --> 00:09:49,680
+que hay que hacer es pasar este 3 para acá 
+dividiendo y dejar aislado esta potencia,  
+
+89
+00:09:49,680 --> 00:09:54,840
+porque luego tomaremos logaritmos para 
+quitar del exponente esa incógnita. 
+
+90
+00:09:54,840 --> 00:10:01,100
+Luego entonces, nos quedamos con el 3 que pasa 
+dividiendo, luego tenéis 2 partido por 3 igual  
+
+91
+00:10:01,100 --> 00:10:10,610
+a 2 elevado a menos t partido de 24110. Y si ahora 
+tomamos logaritmos, acordaos en los dos lados de  
+
+92
+00:10:10,610 --> 00:10:14,870
+la igualdad, que no se os olvide, porque si no 
+tomas logaritmos en los dos lados está todo mal. 
+
+93
+00:10:14,870 --> 00:10:25,480
+Tenemos logaritmo de 2/3 igual al logaritmo 
+de 2 elevado a menos t partido de 24110. 
+
+94
+00:10:25,480 --> 00:10:30,670
+Y aquí, por las propiedades de los logaritmos 
+sabemos que este exponente lo podemos pasar  
+
+95
+00:10:30,670 --> 00:10:37,060
+delante multiplicando. Luego, me va 
+a quedar: logaritmo de 2/3 igual a  
+
+96
+00:10:37,060 --> 00:10:48,540
+menos t partido de 24110 por el logaritmo de 2.
+Bueno, este logaritmo 2 que está multiplicando  
+
+97
+00:10:48,540 --> 00:10:51,750
+lo vamos a pasar dividiendo, porque lo 
+que queremos es despejar la t, ¿verdad? 
+
+98
+00:10:51,750 --> 00:10:56,310
+Bueno, podemos hacer otra cosa, y es 
+que todo esto que está aquí en negativo,  
+
+99
+00:10:56,310 --> 00:11:02,310
+lo pasamos positivo, y todo esto que esta aquí 
+positivo lo pasamos negativo. Luego entonces,  
+
+100
+00:11:02,310 --> 00:11:09,000
+nos va a quedar lo siguiente: vamos 
+a ver, pues tendremos: t partido de 
+
+101
+00:11:11,870 --> 00:11:17,600
+24110 por el logaritmo de 2, vamos a 
+hacerlo despacio para que no haya problemas,  
+
+102
+00:11:17,600 --> 00:11:23,810
+igual al logaritmo de 2/3 . Y ahora sí. Ahora 
+ya vamos a pasar este logaritmo dividiendo. 
+
+103
+00:11:23,810 --> 00:11:30,000
+Luego entonces, tenemos t es igual, 
+vamos a hacerlo aquí, logaritmo de  
+
+104
+00:11:31,000 --> 00:11:38,690
+tenemos 2/3 partido del logaritmo de 2.
+Y fijaos que hemos pasado este dividiendo y,  
+
+105
+00:11:38,690 --> 00:11:51,100
+este que está dividiendo, pasa 
+multiplicando, luego por 24110. 
+
+106
+00:11:51,100 --> 00:12:04,880
+Y esto, si lo hacéis, os va a dar la friolera 
+de 14103, aproximadamente, 14103 años. 
+
+107
+00:12:04,880 --> 00:12:08,990
+Pues esa es la cantidad de 
+tiempo que tiene que pasar. 
+
+108
+00:12:08,990 --> 00:12:13,760
+Aquí me falta un menos, ¿verdad que sí?, porque si 
+este la hemos pasado negativo, vamos a arreglarlo,  
+
+109
+00:12:13,760 --> 00:12:19,850
+cuidadito, esto está positivo pasa negativo, luego 
+esto es menos, ¿vale? bien. Luego, haciendo esta  
+
+110
+00:12:19,850 --> 00:12:25,940
+cuenta logaritmo de 2/3, lo ponéis en negativo y 
+lo dividimos entre logaritmo de 2, lo multiplicas  
+
+111
+00:12:25,940 --> 00:12:35,630
+por 24110, os sale que son necesarios 14.103 años 
+para que la cantidad de plutonio sea de 2 kilos. 
+
+112
+00:12:36,260 --> 00:12:42,180
+Así que fijaos el gran problema que supone, 
+cuando en una central nuclear o en otro sitio,  
+
+113
+00:12:42,180 --> 00:12:46,200
+pues hay un problema con una 
+pérdida de material radiactivo. 
+
+114
+00:12:46,830 --> 00:12:54,260
+Vamos a remarcar y estos dos también, porque 
+son las soluciones de los apartados a y b. 
+
+115
+00:12:54,260 --> 00:12:59,960
+Bueno, pues espero que hayáis comprendido 
+el problema y hasta la próxima.
+

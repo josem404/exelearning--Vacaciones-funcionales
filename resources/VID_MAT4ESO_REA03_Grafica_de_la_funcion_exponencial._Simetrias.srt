@@ -1,0 +1,560 @@
+1
+00:00:07,290 --> 00:00:12,750
+Bienvenidos a este vídeo, saludos para todos. 
+Bien, pues aquí en este vídeo os voy a enseñar  
+
+2
+00:00:12,750 --> 00:00:17,910
+cómo hacer la gráfica de la función exponencial, 
+en concreto de la función exponencial de la forma  
+
+3
+00:00:17,910 --> 00:00:25,380
+f(x) igual a a elevado a x, y lo vamos a hacer con 
+dos ejemplos. El primero f(x) igual a 3 elevado a  
+
+4
+00:00:25,380 --> 00:00:34,580
+x y el segundo f(x) igual a un tercio elevado a x.
+Bueno, y ¿cómo se hace la gráfica de la función  
+
+5
+00:00:34,580 --> 00:00:37,970
+exponencial?Pues mirad la gráfica la función 
+exponencial se hace de forma muy sencilla.  
+
+6
+00:00:37,970 --> 00:00:43,910
+Sencillamente tenemos que darle valores 
+a la x y obtener lo que vale la y, o sea,  
+
+7
+00:00:43,910 --> 00:00:49,010
+lo que vale f(x) . Recordad que muchas veces 
+en las funciones en vez de y ponemos f(x),  
+
+8
+00:00:49,010 --> 00:00:54,930
+o sea, que si decimos y es lo mismo que decir 
+f(x), ¿de acuerdo? Vamos a ponerlo aquí y que  
+
+9
+00:00:54,930 --> 00:01:02,040
+quede muy claro que decir f(x) es lo mismo.
+Muy bien, bueno pues vamos a empezar a darle  
+
+10
+00:01:02,040 --> 00:01:08,790
+valores. Pero antes de eso, recordad que una 
+función exponencial de este tipo siempre pasa  
+
+11
+00:01:08,790 --> 00:01:15,980
+por dos puntos. Lo vamos a poner aquí. Siempre 
+pasa por el punto (0, 1) y también pasa siempre  
+
+12
+00:01:15,980 --> 00:01:24,770
+por el punto (1, a). Fijaos que si elevamos, si 
+sustituimos la x por cero, tenemos a elevado a  
+
+13
+00:01:24,770 --> 00:01:31,370
+cero, y cualquier número elevado a cero es 
+1. Por lo tanto, sea lo que sea a, sabemos  
+
+14
+00:01:31,370 --> 00:01:38,480
+que esta gráfica de esta función exponencial va 
+a pasar por el punto cero de x y 1 de y, 1 será  
+
+15
+00:01:38,480 --> 00:01:44,930
+f(x). Lo mismo ocurre si a la x le damos el valor 
+1. Si aquí le damos el valor 1, la y siempre va a  
+
+16
+00:01:44,930 --> 00:01:50,750
+valer a, porque a elevado a 1 va a ser. Luego 
+entonces, siempre pasa por el punto (1, a). s 
+
+17
+00:01:50,750 --> 00:01:56,180
+Siendo esto así, ya podemos ir completando nuestra 
+tabla de valores, que ya veis que la tenemos aquí  
+
+18
+00:01:56,180 --> 00:02:05,240
+preparada para ambos casos. Luego siempre podemos 
+poner que la x vale cero luego la y vale 1,  
+
+19
+00:02:05,240 --> 00:02:11,930
+y también podemos poner que si la x vale 1, la 
+y vale a. Pero en este caso la a es 3 ¿verdad?,  
+
+20
+00:02:11,930 --> 00:02:17,360
+y en este caso pues pasa también 
+por (0, 1), este no cambia y pasa  
+
+21
+00:02:17,360 --> 00:02:23,930
+por el punto (1, a). En este caso a es 1/3.
+Perfecto, bueno, ahora sí vamos a empezar a  
+
+22
+00:02:23,930 --> 00:02:29,450
+darle valores. Este ya lo tenemos hecho ¿verdad?
+Fijaos que hemos cambiado la x, he puesto un cero,  
+
+23
+00:02:29,450 --> 00:02:33,380
+eso quiere decir que la x la voy a 
+sustituir por 0. 3 elevado a cero,  
+
+24
+00:02:33,380 --> 00:02:39,890
+ya hemos dicho que es uno. Este ya lo tenemos.
+Aquí es f(1), o sea la x es 1, 3 elevado  
+
+25
+00:02:39,890 --> 00:02:44,870
+a 1 es 3. También lo hemos puesto.
+Vamos con un nuevo valor. Si la x es 2,  
+
+26
+00:02:44,870 --> 00:02:53,640
+pues tendremos 3 al cuadrado, sustituimos la x 
+por 2, luego 3 al cuadrado es 9. Vamos con otro  
+
+27
+00:02:53,640 --> 00:03:00,570
+valor. Antes vamos a colocarlo aquí en la tabla 
+para no liarnos. Luego si la x es 2 la y es 9. 
+
+28
+00:03:00,570 --> 00:03:04,470
+Me gusta ir haciéndolo así sobre la marcha 
+porque luego me puedo hacer un lío. Así,  
+
+29
+00:03:04,470 --> 00:03:11,610
+tengo un par de datos, pues los pongo. Vamos 
+con la x = 3. Pues si la x es 3, ya la podemos  
+
+30
+00:03:11,610 --> 00:03:21,760
+poner. Sustituimos aquí, 3 al cubo es 27. Muy 
+bien, pues en ese caso tenemos que la y vale 27. 
+
+31
+00:03:21,760 --> 00:03:26,080
+Seguimos ahora vamos a coger algunos valores 
+negativos, porque ya sabéis que la función  
+
+32
+00:03:26,080 --> 00:03:33,040
+exponencial tiene por dominio todo R, de 
+menos infinito a más infinito ¿de acuerdo? 
+
+33
+00:03:33,040 --> 00:03:39,670
+Bueno, pues entonces si la x es -1, lo ponemos 
+aquí, pues entonces sustituyendo 3 elevado a -1 y,  
+
+34
+00:03:39,670 --> 00:03:45,850
+si hacemos la inversa de la base, recordad 
+que esto se queda un tercio elevado a uno,  
+
+35
+00:03:45,850 --> 00:03:50,500
+y un tercio elevado a uno, pues es un tercio. 
+Hacemos la inversa de la base para poner el  
+
+36
+00:03:50,500 --> 00:03:58,570
+exponente positivo. Luego entonces, tenemos que la 
+y vale un tercio cuando la x es -1. Vamos con otro  
+
+37
+00:03:58,570 --> 00:04:06,070
+valor negativo. Tenemos 3 elevado a -2. Pues idem 
+de lo mismo, que se dice, un tercio al cuadrado,  
+
+38
+00:04:06,070 --> 00:04:10,300
+y aquí tenemos uno al cuadrado que es 
+uno y tres al cuadrado que es nueve,  
+
+39
+00:04:10,300 --> 00:04:19,150
+luego entonces si la x es -2 la y vale 1/9
+Y, finalmente, si la x es -3, pues esto  
+
+40
+00:04:19,150 --> 00:04:27,440
+será 1/3 elevado ya a 3 positivo y esto 
+será, 1 partido de 3 al cubo que son 27 
+
+41
+00:04:27,440 --> 00:04:34,160
+Luego -3 y aquí tenemos 1 partido por 27.
+Si os fijáis aquí, no tengo nada preparado  
+
+42
+00:04:34,160 --> 00:04:42,470
+y eso es porque resulta, que si os habéis 
+fijado ya, las bases de ambas funciones son  
+
+43
+00:04:42,470 --> 00:04:46,460
+inversas. Esto es muy interesante porque 
+esto lo ponen mucho en los exámenes. 
+
+44
+00:04:46,460 --> 00:04:52,310
+Si os ponen esto no hay que asustarse. Uno al 
+principio puede pensar, vaya hombre me piden que  
+
+45
+00:04:52,310 --> 00:04:56,090
+haga la gráfica de dos funciones, no me va a dar 
+tiempo. No, pues sí te da tiempo. Sí te da tiempo,  
+
+46
+00:04:56,090 --> 00:05:01,610
+porque resulta que cuando en este tipo de 
+funciones las bases son inversas, resulta  
+
+47
+00:05:01,610 --> 00:05:08,840
+que las gráficas de estas funciones son simétricas 
+respecto del eje y. Eso quiere decir que nada más  
+
+48
+00:05:08,840 --> 00:05:14,330
+que tengo que calcular los valores de una de 
+ellas, porque los valores de la otra tabla los  
+
+49
+00:05:14,330 --> 00:05:20,840
+voy a obtener sin más que cambiar el signo a la x
+Pues entonces vamos a ello. Bueno, ya tenemos dos  
+
+50
+00:05:20,840 --> 00:05:32,890
+puntos, luego voy con el siguiente el siguiente. 
+El siguiente es el (-2, 9). El siguiente es el  
+
+51
+00:05:32,890 --> 00:05:43,060
+(-3, 27). Estoy cambiando siempre el signo a la x.
+El siguiente, en vez de -1, voy a poner (+1, 1/3) 
+
+52
+00:05:44,270 --> 00:05:47,000
+Fijaos cómo voy cambiando 
+siempre el signo de la x,  
+
+53
+00:05:47,000 --> 00:05:52,760
+el de la y lo dejamos constante, lo dejamos igual.
+(-2, 1/9), pues en este caso va a ser (2, 1/9). 
+
+54
+00:05:54,650 --> 00:06:02,840
+Y, finalmente, (-3, 1/27) va a ser (3, 1/27), es 
+decir, que lo que aparentemente era mucho trabajo,  
+
+55
+00:06:02,840 --> 00:06:06,860
+resulta que sacando los puntos de una de las 
+funciones, en este caso esta, que es la más fácil,  
+
+56
+00:06:06,860 --> 00:06:11,300
+pues ya tenemos los puntos de la otra.
+Bueno, pues ahora vamos a hacer la gráfica. 
+
+57
+00:06:11,300 --> 00:06:15,260
+Como siempre los ejes de coordenadas, así que 
+lo único que tenéis que hacer es marcar estos  
+
+58
+00:06:15,260 --> 00:06:19,280
+puntos en los ejes de coordenadas y unirlos 
+y tendréis la curva de la función exponencial 
+
+59
+00:06:19,280 --> 00:06:24,390
+Pero yo lo voy a hacer Geogebra, para que 
+aprendáis también hacerlo en Geogebra. 
+
+60
+00:06:24,390 --> 00:06:31,740
+Os vais a Google, os vais a internet, tecleáis 
+Geogebra y entráis en calculadora gráfica. Lo  
+
+61
+00:06:31,740 --> 00:06:36,360
+vais a encontrar enseguida porque es muy fácil.
+Y aquí, donde pone entrada, vais a ir poniendo  
+
+62
+00:06:36,360 --> 00:06:40,440
+los puntos que tenemos. Bueno, pues 
+vamos a poner primero los de esta  
+
+63
+00:06:40,440 --> 00:06:45,510
+función, f(x) igual a 3 elevado a equis x.
+Vamos rápidamente. Y ¿cómo se hace eso? Bueno,  
+
+64
+00:06:45,510 --> 00:06:50,940
+pues fijaos. Marcamos aquí y con el teclado del 
+ordenador ponemos paréntesis, el primer punto era  
+
+65
+00:06:50,940 --> 00:06:58,560
+el 0, y ahora ponemos coma el (0, 1). Fijaos como 
+ya nos coge aquí Geogebra, ya interpreta que es  
+
+66
+00:06:58,560 --> 00:07:03,270
+una coordenada y, si os dais cuenta ya lo tenéis 
+aquí en la gráfica, en los ejes de coordenadas. 
+
+67
+00:07:03,270 --> 00:07:08,310
+Bueno, ya tenemos el primer punto que, además, 
+tiene nombre, le va dando Geogebra nombres.  
+
+68
+00:07:08,310 --> 00:07:14,640
+Este es el punto A. Siguiente punto. El siguiente 
+punto es el (1, 3). Bueno pues el (1,3) ya lo  
+
+69
+00:07:14,640 --> 00:07:19,170
+tenemos, lo tecleamos y, fijaos cómo aparece por 
+aquí . Si veis que no se ve mucho le quitáis un  
+
+70
+00:07:19,170 --> 00:07:24,780
+poquito de zoom y vamos viendo como van saliendo.
+Siguiente punto: es el (2, 9), bueno pues  
+
+71
+00:07:24,780 --> 00:07:30,600
+paréntesis (2, 9), perfecto le damos 
+al énter, ya lo tenemos. Oye ¿donde  
+
+72
+00:07:30,600 --> 00:07:35,760
+está?, está ahí arriba, porque vemos que una 
+función exponencial enseguida va creciendo, crece  
+
+73
+00:07:35,760 --> 00:07:43,680
+exponencialmente como no podía ser de otra forma.
+Siguiente punto, el (3, 27), venga pues enter y ya  
+
+74
+00:07:43,680 --> 00:07:49,770
+lo tenemos. Oye ¿dónde está ese punto? pues, por 
+aquí arriba, no lo veo no lo veo, ahí estás. Es  
+
+75
+00:07:49,770 --> 00:07:56,850
+que ya nos hemos ido a unos valores altos de f(x)
+Vamos ahora con los negativos. Paréntesis,  
+
+76
+00:07:56,850 --> 00:08:03,150
+utilizamos el menos del teclado, ponemos -1 y 
+ahora coma y, para poner 1/3, para poner 1/3,  
+
+77
+00:08:03,150 --> 00:08:08,700
+porque estamos en estos valores, para poner 1/3, 
+estamos poniendo todos estos valores el (0, 1),  
+
+78
+00:08:10,080 --> 00:08:15,420
+el (1, 3), (2, 9) el 3/27, ambos ya están puestos.
+Ahora vamos con estos. Vamos a poner , (-2, 1/9),  
+
+79
+00:08:16,770 --> 00:08:23,660
+etcétera. Bueno, pues para poner (-1, 1/3) lo 
+único tenéis que hacer es poner, vamos a quitar  
+
+80
+00:08:23,660 --> 00:08:29,520
+esto, esto está mal, este lo quitamos, vamos a 
+decirle que lo borre, si nos equivocamos le damos  
+
+81
+00:08:29,520 --> 00:08:35,730
+aquí a los puntitos, le decimos que lo borre. 
+Luego, ponemos -1 y ahora coma. Y para poner 1/3,  
+
+82
+00:08:35,730 --> 00:08:42,860
+ponemos 1 y barra inclinada, que lo vais a 
+encontrar en la parte de números del teclado y,  
+
+83
+00:08:42,860 --> 00:08:47,780
+fijaos cómo Geogebra ya interpreta que es 
+una fracción pues abajo le ponemos 1/3. 
+
+84
+00:08:47,780 --> 00:08:52,280
+Le damos al enter, y ahí tenemos el punto.
+Fijaos que hacemos un zoom y se ve claramente  
+
+85
+00:08:52,280 --> 00:08:57,680
+como está ahí, ¿verdad? El punto E.
+Vamos con el siguiente. Es el - 2,  
+
+86
+00:08:57,680 --> 00:09:05,930
+pues vamos a ponerlo, es el -2 coma 
+y, ahora es un noveno, pues 1 barrita  
+
+87
+00:09:05,930 --> 00:09:15,740
+inclinada 9 y enter. Y ahí lo tenemos el punto F
+Y, finalmente, el último punto. paréntesis - 3  
+
+88
+00:09:15,740 --> 00:09:24,960
+coma 1 barrita inclinada, 1/27. Ahí lo tenéis.
+Ya tenemos todos los puntos que hemos,  
+
+89
+00:09:26,670 --> 00:09:31,830
+que hemos sacado nosotros con nuestra tabla.
+Bueno y para allá arriba, estará el punto 
+
+90
+00:09:32,460 --> 00:09:38,130
+Bueno, y ahora lo que tenemos que hacer es unirlo
+Pero claro, si los unimos a mano seguro que nos va  
+
+91
+00:09:38,130 --> 00:09:44,160
+a salir bastante mal, así que lo vamos a hacer 
+con Geogebra. Vamos a hacer con el ordenador,  
+
+92
+00:09:44,160 --> 00:09:47,970
+por eso lo he hecho con Geogebra para que 
+veáis qué bien sale y cómo sale perfecto. 
+
+93
+00:09:47,970 --> 00:09:54,300
+Vamos a utilizar aquí, vamos a introducir aquí 
+la función 3 elevado x. Lo único que tenéis que  
+
+94
+00:09:54,300 --> 00:10:01,920
+hacer es, aquí en este teclado, elegir esto 
+y, entonces, aquí en la base ponéis 3 y en el  
+
+95
+00:10:01,920 --> 00:10:09,990
+exponente con el teclado del ordenador ponéis x.
+Y, efectivamente, fijaos como automáticamente  
+
+96
+00:10:09,990 --> 00:10:17,100
+se grafica 3 elevado a x, y veis que pasa por 
+todos los puntos ¿verdad? que nosotros hemos,  
+
+97
+00:10:17,100 --> 00:10:20,550
+que nosotros hemos representado.
+Lo que nosotros hemos marcado,  
+
+98
+00:10:20,550 --> 00:10:26,880
+luego hemos sacado los puntos correctamente 
+en nuestra tabla de valores. Perfecto.  
+
+99
+00:10:27,590 --> 00:10:32,960
+Pues ahora lo que habría que hacer sería lo mismo, 
+vamos a hacerlo aquí, aquí se habría que meter,  
+
+100
+00:10:32,960 --> 00:10:38,720
+introducir estos puntos en Geogebra, no lo voy a 
+hacer por no hacer el vídeo largo. Introduciremos  
+
+101
+00:10:38,720 --> 00:10:44,420
+estos puntos en Geogebra, al igual que hemos 
+hecho con estos y después marcaríamos la gráfica  
+
+102
+00:10:44,420 --> 00:10:49,100
+de la función, teclearíamos la gráfica de la 
+función. Eso sí lo voy a hacer para que lo veáis. 
+
+103
+00:10:50,090 --> 00:10:55,880
+Pues aquí en Geogebra lo que hacemos es 
+que vamos a poner la gráfica de la función,  
+
+104
+00:10:55,880 --> 00:11:02,420
+luego ponemos una barrita inclinada un tercio 
+y ahora pues seleccionamos esto y le decimos  
+
+105
+00:11:02,420 --> 00:11:08,390
+que nos lo eleve todo, en este caso a x.
+Y, fijaos cómo automáticamente aparece  
+
+106
+00:11:08,390 --> 00:11:16,610
+la gráfica de la función 1/3 elevado a x.
+Lo importante de esto es que os deis cuenta de que  
+
+107
+00:11:16,610 --> 00:11:24,290
+3 elevado a x, que es esta gráfica y 1/3 elevado 
+a x es, como veis, simétrico respecto del eje y 
+
+108
+00:11:24,290 --> 00:11:29,360
+Si hubiéramos puesto aquí todos los puntos de 
+esta segunda tabla veríais que efectivamente  
+
+109
+00:11:29,360 --> 00:11:36,410
+coinciden con esta función. Luego entonces, cuando 
+las funciones exponenciales tienen bases inversas,  
+
+110
+00:11:37,160 --> 00:11:41,480
+tenemos que hacer la mitad del trabajo. Con 
+sacar unos puntos, tenemos los del otro lado 
+
+111
+00:11:42,830 --> 00:11:46,940
+Pues hasta aquí el vídeo. Espero que 
+hayáis comprendido cómo hacer la gráfica  
+
+112
+00:11:46,940 --> 00:11:50,360
+de una función exponencial.
+Saludos y hasta la próxima.
+
