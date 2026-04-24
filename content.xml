@@ -1,0 +1,2923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026042420472564B40P</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260424204725KGMLD5</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Vacaciones funcionales</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777056438110</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_extraHeadContent</key>
+    <value>&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+extensions: [&quot;tex2jax.js&quot;],
+jax: [&quot;input/TeX&quot;, &quot;output/HTML-CSS&quot;],
+tex2jax: {
+inlineMath: [ [&apos;$&apos;,&apos;$&apos;], [&quot;\\(&quot;,&quot;\\)&quot;] ],
+displayMath: [ [&apos;$$&apos;,&apos;$$&apos;], [&quot;\\[&quot;,&quot;\\]&quot;] ],
+processEscapes: true
+},
+&quot;HTML-CSS&quot;: { fonts: [&quot;TeX&quot;] },
+TeX: { equationNumbers: { autoNumber: &quot;AMS&quot; } },
+loader: {load: [&apos;[tex]/cancel&apos;]},
+tex: {packages: {&apos;[+]&apos;: [&apos;cancel&apos;]}}
+  });
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=default&quot;&gt;&lt;/script&gt;
+&lt;style&gt;
+.facilitada {
+  font-size: 14pt; 
+  line-height: 1.5; 
+}
+.facilitada ul {
+   line-height: 2.5; 
+}
+.facilitada ol {
+   line-height: 2.5; 
+}
+.creditos figcaption{
+text-align: center; 
+font-size: 10px; }
+
+&lt;/style&gt;
+</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mod9ir4r-oabmz56c4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Vacaciones funcionales para 4ºA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vacaciones funcionales para 4ºA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vacaciones funcionales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Vacaciones funcionales para 4ºA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mod9ir4r-oabmz56c4</odePageId>
+      <odeBlockId>block-mob8cber-rzfykq9d5</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4r-oabmz56c4</odePageId>
+          <odeBlockId>block-mob8cber-rzfykq9d5</odeBlockId>
+          <odeIdeviceId>idevice-mob8cber-9v728jt27</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2>Diccionario lectura facilitada</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="exe-fx exe-accordion">
+<h2>Bisectriz</h2>
+<p><img src="{{context_path}}/content/resources/bisectriz.jpg" alt="La imagen muestra un ángulo recto y su bisectriz." title="Bisectriz" width="125" height="83" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Segmento de la recta que divide a un ángulo en dos partes iguales.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>Dibuja la bisectriz de un ángulo de 90 grados.</p>
+</dd>
+</dl>
+<h2>Celdas</h2>
+<p><img src="{{context_path}}/content/resources/Celda.png" alt="La imagen muestra las celdas de una tabla" title="Celda" width="126" height="92" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Espacio rectangular de una tabla que contiene un texto, un gráfico o un valor.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>Introduce los datos en las celdas correspondientes.</p>
+</dd>
+</dl>
+<h2>Cuadriatlón</h2>
+<p><img src="{{context_path}}/content/resources/f1_estrategia_4.1.png" alt="La imagen muestra  4 deportes de invierno: esquí, ciclismo, escalada y carrera de trineos. " title="Cuadriatlón" width="125" height="100" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Prueba que consiste en cuatro partes, en la que cada una se hace un deporte distinto</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>La Copa del Mundo de Cuadriatlón se ha desarrollado en Sierra Nevada.</p>
+</dd>
+</dl>
+<h2>Codificado</h2>
+<p><img src="{{context_path}}/content/resources/codificado.png" alt="La imagen muestra el código binario formado por ceros y unos. " title="Codificado" width="124" height="71" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Mensaje expresado mediante un código.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>El mensaje está codificado.</p>
+</dd>
+</dl>
+<h2>Decibelios</h2>
+<p><img src="{{context_path}}/content/resources/decibelio.jpg" alt="La imagen muestra un sonómetro midiendo los decibelios de un sonido. " title="Decibelios" width="125" height="83" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Unidad que se utiliza para medir la intensidad del sonido.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>En el restaurante se registraron 60 decibelios.</p>
+</dd>
+</dl>
+<h2>Desafíos</h2>
+<p><img src="{{context_path}}/content/resources/desafio.png" alt="La imagen muestra un cubo de Rubik." title="Desafío " width="125" height="130" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Situación difícil o peligrosa con la que alguien se enfrenta.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>La resolución de problemas en matemáticas es un desafío para los estudiantes.</p>
+</dd>
+</dl>
+<h2>Disciplina deportiva</h2>
+<p><img src="{{context_path}}/content/resources/juegos_olimpicos.png" alt="La imagen muestra los anillos olímpicos." title="Disciplina deportiva" width="125" height="125" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Capacidad de las personas para poner en práctica una serie de principios de orden y constancia practicando un deporte.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>La escalada es una disciplina deportiva de los juegos olímpicos.</p>
+</dd>
+</dl>
+<h2>Geogebra</h2>
+<p><img src="{{context_path}}/content/resources/geogebra.jpg" alt="La imagen muestra una captura de pantalla de Geogebra en español. " title="Geogebra" width="125" height="75" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Software de matemáticas para todos los niveles educativos.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>Realiza la actividad utilizando Geogebra.</p>
+</dd>
+</dl>
+<h2>Radioactividad</h2>
+<p><img src="{{context_path}}/content/resources/radioactivo.jpg" alt="La imagen muestra el símbolo de trébol radiactivo." title="Radioactividad" width="125" height="94" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Proceso por el que un núcleo atómico inestable pierde energía y emite radiación.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>La radioactividad artificial se utiliza en medicina nuclear.</p>
+</dd>
+</dl>
+<h2>Simetría</h2>
+<p><img src="{{context_path}}/content/resources/simetria.jpg" alt="La imagen muestra el eje de simetría de una figura." title="Simetría" width="125" height="83" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>División de una imagen o figura por su eje central, de forma que se vea que ambos lados son iguales.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>La función es simétrica.</p>
+</dd>
+</dl>
+<h2>Sultanes</h2>
+<p><img src="{{context_path}}/content/resources/sultan.jpg" alt="La imagen muestra al sultán de Marruecos. " title="Sultán " width="125" height="139" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Título utilizado en países islámicos. Equivale al título de monarca o rey.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>Los sultanes gobernaron el imperio.</p>
+</dd>
+</dl>
+<h2>Tabla de valores</h2>
+<p><img src="{{context_path}}/content/resources/TABLA_DE_VALORES.jpg" alt="La imagen muestra una tabla de valores." title="Tabla de valores" width="125" height="148" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Representación de datos mediante pares ordenados, que expresan la relación existente entre dos magnitudes.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>Construye una tabla de valores y represéntalos gráficamente.</p>
+</dd>
+</dl>
+<h2>Termonucleares</h2>
+<p><img src="{{context_path}}/content/resources/termonucleares.jpg" alt="La imagen muestra la explosión de una bomba termonuclear." title="Termonuclear" width="125" height="125" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Bomba termonuclear o bomba de hidrógeno se basa en la obtención de la energía desprendida al fusionarse dos núcleos atómicos.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>Actualmente hay nueve países que tienen bombas termonucleares.</p>
+</dd>
+</dl>
+<h2>Umbral</h2>
+<p><img src="{{context_path}}/content/resources/umbral.png" alt="La imagen muestra un ruido molesto." title="Umbral " width="125" height="125" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Intensidad mínima de un estímulo que despierta la sensación de dolor.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>El oído humano entra en el umbral del dolor a partir de 120 decibelios.</p>
+</dd>
+</dl>
+</div></div></div></section><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><img src="{{context_path}}/content/resources/matematicas_4ESO_A_B.png" alt="Portada" title="Portada" width="720" height="360" style="display: block; margin-left: auto; margin-right: auto;"></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mod9ir4t-bp6rv69q7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Mathematical Sport Challenge</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Mathematical Sport Challenge</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Mathematical Sport Challenge</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mod9ir4t-bp6rv69q7</odePageId>
+      <odeBlockId>block-mob8cbet-xopbugpat</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4t-bp6rv69q7</odePageId>
+          <odeBlockId>block-mob8cbet-xopbugpat</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbet-snn3l8ono</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2>Diccionario</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="exe-fx exe-accordion">
+<h2>Aúna</h2>
+<p><img src="{{context_path}}/content/resources/cooperacion.png" alt="La imagen muestra unas manos cooperando." title="Aunar " width="125" height="125" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Unir cosas o personas distintas para conseguir una meta.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>La competición internacional aúna varios deportes.</p>
+</dd>
+</dl>
+<h2>Apps</h2>
+<p><img src="{{context_path}}/content/resources/apps.1.jpg" alt="La imagen muestra un dedo señalando una app." title="Apps" width="125" height="88" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Es un tipo de programa informático diseñado como una herramienta para que su usuario haga diversos tipos de trabajos. Proviene de la abreviatura del inglés application.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>He instalado en mi móvil varias apps educativas.</p>
+</dd>
+</dl>
+<h2>Cuadriatlón</h2>
+<p><img src="{{context_path}}/content/resources/f1_estrategia_4.1.png" alt="La imagen muestra  4 deportes de invierno: esquí, ciclismo, escalada y carrera de trineos. " title="Cuadriatlón" width="125" height="100" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Prueba que consiste en cuatro partes, en la que cada una se hace un deporte distinto</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>La Copa del Mundo de Cuadriatlón se ha desarrollado en Sierra Nevada.</p>
+</dd>
+</dl>
+<h2>Geogebra</h2>
+<p><img src="{{context_path}}/content/resources/geogebra.jpg" alt="La imagen muestra una captura de pantalla de Geogebra en español. " title="Geogebra" width="125" height="75" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Software de matemáticas para todos los niveles educativos.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>Realiza la actividad utilizando Geogebra.</p>
+</dd>
+</dl>
+<h2>Mácula</h2>
+<p><img src="{{context_path}}/content/resources/macula.png" alt="La imagen muestra una mancha de color negro. " title="Mácula " width="125" height="104" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Mancha</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>La deportista tiene una imagen sin mácula.</p>
+</dd>
+</dl>
+<h2>Predilecto</h2>
+<p><img src="{{context_path}}/content/resources/predilecto.jpg" alt="La imagen muestra a Alberto Rodríguez Librero, hijo predilecto de Andalucía en 2015" title="Predilecto" width="124" height="83" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Título que se le da a una persona que ha sido importante por alguna acción que ha realizado.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>La Diputación de Málaga nombró a Manuel José García Caparrós Hijo Predilecto de la Provincia.</p>
+</dd>
+</dl>
+<h2>Sultanes</h2>
+<p><img src="{{context_path}}/content/resources/sultan.jpg" alt="La imagen muestra al sultán de Marruecos. " title="Sultán " width="125" height="139" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Título utilizado en países islámicos. Equivale al título de monarca o rey.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>Los sultanes gobernaron el imperio.</p>
+</dd>
+</dl>
+</div></div></div></section><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div style="display: flex; align-items: center; flex-wrap: wrap;">
+<figure class="exe-figure exe-image float-left license-copyright" style="width: 250px; flex: none;"><img src="{{context_path}}/content/resources/Afuncion.png" width="250" height="275" style="float: left;" alt="Afunción " title="Afunción"></figure>
+<div style="flex: 1;">
+<p>Afunción es una atleta de alta competición que ha conseguido cosechar títulos, méritos y honores en una gran cantidad de competiciones, tanto nacionales como internacionales.</p>
+<p>Los responsables de <em>"Mathematical Sport Challenge"</em> han pedido su ayuda para diseñar su circuito deportivo utilizando funciones matemáticas, para lo que contarán con la inestimable colaboración de Rectoparábolo.</p>
+<p style="text-align: center;">¿Te animas a ser un discípulo de Rectoparábolo como Afunción?</p>
+</div>
+</div></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><div class="facilitada">
+<p>Afunción es una atleta de alta competición.</p>
+<p>Afunción ha conseguido muchos títulos </p>
+<p>en competiciones nacionales e internacionales. </p>
+<p>Los responsables de Mathematical Sport Challenge </p>
+<p>quieren que Afunción diseñe su circuito deportivo.</p>
+<p>El Mathematical Sport Challenge es un Desafío Deportivo Matemático. </p>
+<p>Afunción utiliza funciones matemáticas para diseñar el circuito deportivo.</p>
+<p>Afunción contará con la ayuda de Rectoparábolo para diseñar el circuito.  </p>
+<p>Rectoparábolo quiere ser tu maestro. </p>
+<p>¿Te animas?</p>
+</div><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4t-bp6rv69q7</odePageId>
+      <odeBlockId>block-mob8cbet-xd9hxrfjo</odeBlockId>
+      <blockName>1. El problemón de Afunción</blockName>
+      <iconName>udl_eng_reto</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4t-bp6rv69q7</odePageId>
+          <odeBlockId>block-mob8cbet-xd9hxrfjo</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbet-5d56x5dc4</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Afunción es una atleta de alta competición que ha conseguido cosechar títulos, méritos y honores en una gran cantidad de competiciones, tanto nacionales como <img src="{{context_path}}/content/resources/Afuncion_campeona.png" alt="Afunción" title="Afunción" style="float: right; margin-right: 10px; margin-left: 10px;" width="150" height="165"> internacionales.</p>
+<p>Es un ídolo de masas, sus innumerables fans la adoran e idolatran. De hecho, es la atleta con mayor número de seguidores en las redes sociales Neckbook y Sweeter (tiene más de \(1,5\ \cdot \ 10^6\) millones de seguidores).</p>
+<p>Es igualmente famosa por sus éxitos deportivos, como por su glamour y estilo ante las cámaras. Sus seguidores la consideran el paradigma de la inteligencia y la elegancia. Es el ideal de muchos y la envidia de no pocos.</p>
+<p><img src="{{context_path}}/content/resources/f1_glamour.png" alt="La imagen muestra la palabra glamour en mayúsculas" title="Glamour" style="display: block; margin-left: auto; margin-right: auto;" width="249" height="72"></p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><div class="facilitada">
+<p>Afunción es una atleta de alta competición.</p>
+<p>Afunción ha conseguido muchos títulos&nbsp;</p>
+<p>en competiciones nacionales e internacionales.&nbsp;</p>
+<p>Afunción tiene muchos fans.&nbsp;</p>
+<p>Los fans de Afunción la adoran.&nbsp;</p>
+<p>Afunción tiene muchos seguidores en las redes sociales.&nbsp;</p>
+<p>Afunción tiene más de \(1,5\cdot \ 10^6\)&nbsp; millones de seguidores en Neckbook y Sweeter.</p>
+<p>\(1,5\cdot \ 10^6\) millones es un valor muy grande.</p>
+<p>\(1,5\cdot \ 10^6\) millones está expresado en notación científica.</p>
+<p>\(1,5\cdot \ 10^6\) millones está representado con potencias de 10.&nbsp;</p>
+<p>Afunción tiene 1.500.000 seguidores.&nbsp;&nbsp;</p>
+<p>1.500.000 = un millón quinientos mil seguidores.&nbsp;</p>
+<p>Neckbook y Sweeter son redes sociales.&nbsp;</p>
+<p>Afunción es famosa por sus éxitos deportivos y por su glamour.</p>
+<p>Los seguidores de Afunción la consideran modelo de inteligencia y elegancia.&nbsp;</p>
+<p>Muchas personas consideran que Afunción es perfecta.</p>
+<p>Otras personas tienen envidia de Afunción.&nbsp;</p>
+</div><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Después de tanto triunfo ha pensado que es el momento de tomarse un buen descanso. Quiere huir de las cámaras y retirarse durante un tiempo del calor de sus innumerables seguidores.</p>
+<p>Así que ha decidido tomarse unas vacaciones funcionales. Quiere ir este invierno a Sierra Nevada, lugar <a href="#t717d4ea7-fc0b-6118-2af1-c8f2ad6bc815" id="link717d4ea7-fc0b-6118-2af1-c8f2ad6bc815" class="exe-tooltip definition-tt titled-tt" title="Predilecto | Acceder a la definición de predilecto">predilecto</a> de no pocos reyes y <a href="#t7c1e5ef6-9d23-a27d-e9cc-3602a4d17b63" id="link7c1e5ef6-9d23-a27d-e9cc-3602a4d17b63" class="exe-tooltip definition-tt titled-tt" title="Sultanes | Acceder a la definición de sultanes">sultanes</a>.&nbsp;</p>
+<p>Casualmente este año se celebra allí el…</p>
+<p style="text-align: center;"><em>Mathematical Sport challenge</em></p>
+<p>competición internacional de gran prestigio que <a href="#t8cb57ab2-f431-31bf-867d-10155f19e951" id="link8cb57ab2-f431-31bf-867d-10155f19e951" class="exe-tooltip definition-tt titled-tt" title="Aúna | Acceder a la definición de aúna">aúna</a> deportes de invierno con Matemáticas.</p>
+<p>Los organizadores del evento quieren aprovechar la visita de Afunción como tirón publicitario. Han pedido a Afunción que diseñe el recorrido de la prueba.</p>
+<p>¿Pero en qué consiste esta competición?</p>
+<p>Aquí no basta con ser una buena atleta, sino que además debes tener buenas dotes matemáticas, porque el recorrido se debe diseñar planificando las etapas con ayuda de las Matemáticas.&nbsp;</p>
+<p><img src="{{context_path}}/content/resources/f1_snow_2.png" alt="La imagen muestra una suma con imágenes" title="Snow_2" style="display: block; margin-left: auto; margin-right: auto;" width="499" height="114"></p>
+<p>Sin embargo Afunción. ¡Nunca ha sido&nbsp; buena en Matemáticas! Afunción se encuentra en una encrucijada: ¿Por qué?&nbsp;</p>
+<p>Si no acepta se arriesga a perder su fama y brillo entre sus fans.</p>
+<p>Si acepta… ¿Cómo podrá resolver este reto si no sabe de Matemáticas?</p>
+<p>Tiene que aceptar. <strong>No hay otra opción posible</strong>.</p>
+<p>¿Será capaz Afunción de encontrar a alguien que le ayude a triunfar nuevamente?&nbsp;</p>
+<p>¿Podrá Afunción diseñar de forma competente las etapas del Mathematical Sports Challenge?</p>
+<p>¿Podrá mantener su imagen sin <a href="#t41c59909-724f-a7ed-9245-ca7547c5e2cb" id="link41c59909-724f-a7ed-9245-ca7547c5e2cb" class="exe-tooltip definition-tt titled-tt" title="Mácula | Acceder a la definición de mácula">mácula</a> ante&nbsp; sus fans?</p>
+<p>Acompaña a Afunción en esta aventura Matemático -&nbsp; Deportiva.&nbsp;</p>
+<p style="text-align: center;"><strong>¡Vente a estas VACACIONES FUNCIONALES!</strong><strong></strong><strong></strong></p>
+<div id="t8cb57ab2-f431-31bf-867d-10155f19e951" class="exe-tooltip-text"><img src="{{context_path}}/content/resources/cooperacion.png" alt="La imagen muestra unas manos cooperando." title="Aunar " style="float: left; margin-right: 10px; margin-left: 10px;" width="100"> <strong>Definición</strong>
+<p>Unir cosas o personas distintas para conseguir una meta.</p>
+<strong>Ejemplo</strong>
+<p>La competición internacional aúna varios deportes.</p>
+</div>
+<div id="t41c59909-724f-a7ed-9245-ca7547c5e2cb" class="exe-tooltip-text"><img src="{{context_path}}/content/resources/macula.png" alt="La imagen muestra una mancha de color negro. " title="Mácula " style="float: left; margin-right: 10px; margin-left: 10px;" width="100"> <strong>Definición</strong>
+<p>Mancha</p>
+<strong>Ejemplo</strong>
+<p>La deportista tiene una imagen sin mácula.</p>
+</div>
+<div id="t717d4ea7-fc0b-6118-2af1-c8f2ad6bc815" class="exe-tooltip-text"><img src="{{context_path}}/content/resources/predilecto.jpg" alt="La imagen muestra al hijo predilecto de la ciudad de Málaga en el año 2004. " title="Predilecto" style="float: left; margin-right: 10px; margin-left: 10px;" width="100"> <strong>Definición</strong>
+<p>Título que se le da a una persona que ha sido importante por alguna acción que ha realizado.</p>
+<strong>Ejemplo</strong>
+<p>La Diputación de Málaga nombró a Manuel José García Caparrós Hijo Predilecto de la Provincia.</p>
+</div>
+<div id="t7c1e5ef6-9d23-a27d-e9cc-3602a4d17b63" class="exe-tooltip-text"><img src="{{context_path}}/content/resources/sultan.jpg" alt="La imagen muestra al sultán de Marruecos. " title="Sultán " style="float: left; margin-right: 10px; margin-left: 10px;" width="100"> <strong>Definición</strong>
+<p>Título utilizado en países islámicos. Equivale al título de monarca o rey.</p>
+<strong>Ejemplo</strong>
+<p>Los sultanes gobernaron el imperio.</p>
+</div></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><div class="facilitada">
+<p>Afunción quiere retirarse de la competición durante un tiempo.&nbsp;</p>
+<p>Afunción ha decidio tomarse unas reales vacaciones.&nbsp;</p>
+<p>Afunción quiere ir este invierno a Sierra Nevada.</p>
+<p>Sierra Nevada es el lugar preferido de reyes y <strong><a href="#ta52668f9-2d91-7dd5-d9ca-653adf0348de" id="linka52668f9-2d91-7dd5-d9ca-653adf0348de" class="exe-tooltip definition-tt titled-tt" title="Sultanes | Acceder a la definición de sultanes">sultanes</a>.</strong>&nbsp;</p>
+<p>Este año se celebra en Sierra Nevada el Mathematical Sport Challenge.</p>
+<p>El Mathematical Sport Challenge es una competición Internacional de gran prestigio.&nbsp;</p>
+<p>Esta competición unifica deportes de invierno con Matemáticas.&nbsp;</p>
+<p>Los organizadores del evento han pedido a Afunción</p>
+<p>que diseñe el recorrido de la prueba.&nbsp;</p>
+<p>¿En qué consiste esta competición?</p>
+<p>Para diseñar el recorrido de la prueba es necesario ser un buen atleta y</p>
+<p>ser bueno en Matemáticas.&nbsp;</p>
+<p>Afunción nunca ha sido buena en Matemáticas.&nbsp;</p>
+<p>Afunción está indecisa.</p>
+<p>¿Por qué?&nbsp;</p>
+<p>Si no acepta puede perder su fama entre sus fans.</p>
+<p>Si acepta ¿cómo podrá resolver este reto sin saber de Matemáticas?</p>
+<p>Tiene que aceptar.&nbsp;</p>
+<p>No hay otra opción posible.</p>
+<p>¿Será capaz Afunción de encontrar a alguien&nbsp;</p>
+<p>que le ayude a triunfar nuevamente?&nbsp;</p>
+<p>¿Podrá Afunción diseñar las etapas del Mathematical Sports Challenge?</p>
+<p>¿Podrá Afunción mantener su buena imagen ante sus fans?</p>
+<p>Acompaña a Afunción en esta aventura Matemático - Deportiva.&nbsp;</p>
+<p>¡Vente a estas Vacaciones Funcionales!</p>
+</div>
+<div id="ta52668f9-2d91-7dd5-d9ca-653adf0348de" class="exe-tooltip-text">
+<div class="facilitada"><img src="{{context_path}}/content/resources/sultan.jpg" alt="La imagen muestra al sultán de Marruecos. " title="Sultán " style="float: left; margin-right: 10px; margin-left: 10px;" width="125" height="139">
+
+<strong>Definición</strong>
+<p>Título utilizado en países islámicos. Equivale al título de monarca o rey.</p>
+<strong>Ejemplo</strong>
+<p>Los sultanes gobernaron el imperio.</p>
+</div>
+</div><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4t-bp6rv69q7</odePageId>
+      <odeBlockId>block-mob8cbet-kficvtrz8</odeBlockId>
+      <blockName>2. Diseña las etapas matemáticamente</blockName>
+      <iconName>udl_eng_reto</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4t-bp6rv69q7</odePageId>
+          <odeBlockId>block-mob8cbet-kficvtrz8</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbet-5siuuuduq</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><img src="{{context_path}}/content/resources/recto_parabolo_mate.png" alt="Rectoparábolo" title="Rectoparábolo" style="float: left; margin-right: 10px; margin-left: 10px;" width="125" height="130"> Afunción recurre a un prestigioso, pero excéntrico profesor de Matemáticas, Rectoparábolo, para que le ayude en el diseño del recorrido de la prueba.</p>
+<p>Afunción y Rectoparábolo se complementan, aunque forman una extraña pareja. Él sobresale en el campo de las Matemáticas, es un genio al que no le va el deporte y utiliza unos métodos de enseñanza muy innovadores, mientras que ella es especialista en deportes de invierno, una crack de la nieve y un desastre matemático.</p>
+<p>Así pues, ambos tienen un gran reto por delante:</p>
+<p>“Diseñar, utilizando Geogebra una función a trozos (exponencial, radical, proporcionalidad inversa y logarítmica), el recorrido del <a href="#te95a56a6-934f-53c1-e04a-1dc5c7d021ae" id="linke95a56a6-934f-53c1-e04a-1dc5c7d021ae" class="exe-tooltip definition-tt titled-tt" title="Cuadriatlón | Acceder a la definición de cuadriatlón">cuadriatlón</a> (trineos tirados por perros, esquí, escalada y bicicleta sobre nieve) del Mathematical Sport Challenge de Sierra Nevada”.</p>
+<p>Pero la Organización del evento no lo pone fácil porque… no quiere un único diseño para su cuadriatlón. Necesita varios para elegir entre el que más se ajuste a sus requerimientos y gustos.</p>
+<p>¿Puedes ayudar a Afunción a diseñar recorridos que le ayuden a salir de este embrollo en el que está metida?</p>
+<p>Acompaña a Afunción y Rectoparábolo en esta aventura matemático – deportiva y conviértete en un artista de las funciones: aprenderás su representación gráfica, su expresión analítica, cómo trasladarlas (sin más que sumar o restar), múltiples aplicaciones reales… e incluso cómo hay mujeres que en contra de todo y de todos son capaces de conseguir sus sueños: sí, también en Matemáticas y en el campo de las funciones.</p>
+<p>¿Te lo vas a perder? ¡A por ello!</p>
+<div id="te95a56a6-934f-53c1-e04a-1dc5c7d021ae" class="exe-tooltip-text"><img src="{{context_path}}/content/resources/f1_estrategia_4.1.png" alt="La imagen muestra  4 deportes de invierno: esquí, ciclismo, escalada y carrera de trineos. " title="Cuadriatlón" style="float: left; margin-right: 10px; margin-left: 10px;" width="100"> <strong>Definición</strong>
+<p>Prueba que consiste en cuatro partes, en la que cada una se hace un deporte distinto</p>
+<strong>Ejemplo</strong>
+<p>La Copa del Mundo de Cuadriatlón se ha desarrollado en Sierra Nevada.</p>
+</div></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><div class="facilitada">
+<p>Afunción acude a Rectoparábolo&nbsp;</p>
+<p>para diseñar juntos el recorrido de la competición.&nbsp;</p>
+<p>Rectoparábolo es profesor de Matemáticas.&nbsp;</p>
+<p>Afunción y Rectoparábolo forman un buen equipo.</p>
+<p>Rectoparábolo sobresale en las Matemáticas.&nbsp;</p>
+<p>Rectoparábolo utiliza métodos innovadores.&nbsp;</p>
+<p>Afunción es especialista en deportes de invierno.&nbsp;</p>
+<p>Afunción es un desastre con las matemáticas.&nbsp;</p>
+<p>Afunción y Rectoparábolo tienen un gran reto que alcanzar.&nbsp;</p>
+<p>Afunción y Rectoparábolo tienen que diseñar el recorrido del <strong><a href="#tcd601c76-f774-4f1e-5a6f-7bd5f188b836" id="linkcd601c76-f774-4f1e-5a6f-7bd5f188b836" class="exe-tooltip definition-tt titled-tt" title="Cuadriatlón | Acceder a la definición de cuadriatlón">cuadriatlón</a>&nbsp;</strong></p>
+<p>del Mathematical Sport Challenge de Sierra Nevada.&nbsp;</p>
+<p>El cuadriatlón consistirá en los siguientes deportes:</p>
+<ul>
+<li>Trineos tirados por perros.&nbsp;</li>
+<li>Esquí.</li>
+<li>Escalada.</li>
+<li>Bicicleta sobre nieve.</li>
+</ul>
+<p>En el diseño del recorrido se utilizará Geogebra una función a trozos:</p>
+<ul>
+<li>Exponencial.</li>
+<li>Radical.</li>
+<li>Proporcionalidad inversa.</li>
+<li>Logarítmica.</li>
+</ul>
+<p>La Organización del evento necesita varios diseños del recorrido para su cuadriatlón.</p>
+<p>¿Puedes ayudar a Afunción a diseñar varios recorridos?</p>
+<p>Acompaña a Afunción y a Rectoparábolo en esta aventura matemático – deportiva.</p>
+<p>Conviértete en un artista de las funciones.</p>
+<p>Aprenderás:&nbsp;</p>
+<ul>
+<li>A representar las funciones en gráficas.</li>
+<li>La expresión analítica de las funciones.</li>
+<li>Cómo trasladar las funciones.</li>
+<li>Las aplicaciones de las funciones en la vida cotidiana.</li>
+<li>Que hay mujeres capaces de conseguir sus sueños <br>en Matemáticas y en el campo de las funciones.</li>
+</ul>
+<p>¿Te lo vas a perder?</p>
+<p>¡A por el reto!</p>
+</div>
+<div id="tcd601c76-f774-4f1e-5a6f-7bd5f188b836" class="exe-tooltip-text">
+<div class="facilitada"><img src="{{context_path}}/content/resources/f1_estrategia_4.1.png" alt="La imagen muestra  4 deportes de invierno: esquí, ciclismo, escalada y carrera de trineos. " title="Cuadriatlón" width="125" height="100" style="float: left; margin-right: 10px; margin-left: 10px;">
+
+<strong>Definición</strong>
+<p>Prueba que consiste en cuatro partes, en la que cada una se hace un deporte distinto</p>
+<strong>Ejemplo</strong>
+<p>La Copa del Mundo de Cuadriatlón se ha desarrollado en Sierra Nevada.</p>
+</div>
+</div><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4t-bp6rv69q7</odePageId>
+      <odeBlockId>block-mob8cbet-r0axfb024</odeBlockId>
+      <blockName>3. Objetivos</blockName>
+      <iconName>udl_eng_objetivos</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4t-bp6rv69q7</odePageId>
+          <odeBlockId>block-mob8cbet-r0axfb024</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbet-w84emf4z0</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><img src="{{context_path}}/content/resources/Afuncion.png" alt="Afunción dice.." title="Afunción dice.." width="125" height="138" style="float: right; margin-right: 10px; margin-left: 10px;">Al final de este proyecto de aprendizaje, serás capaz de:</p>
+<ol>
+<li>
+<p>Aplicar las matemáticas para diseñar una etapa de una competición deportiva.</p>
+</li>
+<li>
+<p>Interpretar gráficas, identificando el tipo de curva y&nbsp;sus características más importantes.</p>
+</li>
+<li>
+<p>Representar gráficamente información aplicando con rigurosidad las Matemáticas a situaciones reales.</p>
+</li>
+<li>
+<p>Utilizar <a href="#tdf7cb696-0d2b-a6bf-e10b-9b2a948628fe" id="linkdf7cb696-0d2b-a6bf-e10b-9b2a948628fe" class="exe-tooltip definition-tt titled-tt" title="apps | Acceder a la definición de apps">apps</a> matemáticas para ayudarte en la resolución de problemas.</p>
+</li>
+<li>
+<p>Expresar razonadamente conclusiones sobre un fenómeno a partir del comportamiento de su gráfica.</p>
+</li>
+</ol>
+<div id="tdf7cb696-0d2b-a6bf-e10b-9b2a948628fe" class="exe-tooltip-text"><img src="{{context_path}}/content/resources/apps.1.jpg" alt="La imagen muestra un dedo señalando una app." title="Apps" width="101" style="float: left; margin-right: 10px; margin-left: 10px;" height="71"> <strong>Definición</strong>
+<p>Es un tipo de programa informático diseñado como una herramienta para que su usuario haga diversos tipos de trabajos. Proviene de la abreviatura del inglés application.</p>
+<strong>Ejemplo</strong>
+<p>He instalado en mi móvil varias apps educativas.</p>
+</div></div><article class="exe-udlContent-content-audio js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Audio</h2></header><p><audio controls="controls" src="{{context_path}}/content/resources/Audio_1_REA_3_Al_final_de_este_REA_seras_capaz_de....mp3"><a href="{{context_path}}/content/resources/Audio_1_REA_3_Al_final_de_este_REA_seras_capaz_de....mp3">audio/mpeg</a></audio></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article><article class="exe-udlContent-content-visual js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Apoyo visual</h2></header><p><img src="{{context_path}}/content/resources/apoyo_visual_objetivos_fase_1.png" alt="La imagen muestra los objetivos que alcanzarás al final de este REA" width="600" height="849" title="Objetivos REA"></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4t-bp6rv69q7</odePageId>
+      <odeBlockId>block-mob8cbet-p7yxqplhq</odeBlockId>
+      <blockName>4. Guía Estratégica</blockName>
+      <iconName>udl_eng_reto</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4t-bp6rv69q7</odePageId>
+          <odeBlockId>block-mob8cbet-p7yxqplhq</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbet-oesvhsq0f</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="exe-fx exe-carousel">
+<h2>Descubrimos las funciones y sus propiedades</h2>
+<p><img src="{{context_path}}/content/resources/F1_descubrir.jpg" alt="La imagen muestra una niña mirando funciones" title="Descubrir" width="350" height="201" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<h2>Utilizamos <a href="#te378f3e1-a179-ced1-e8aa-96f6d4179920" id="linke378f3e1-a179-ced1-e8aa-96f6d4179920" class="exe-tooltip definition-tt titled-tt" title="Geogebra | Acceder a la definición de Geogebra">Geogebra</a> para ayudarnos en el conocimiento de las funciones.</h2>
+<p><img src="{{context_path}}/content/resources/F1_geogebra.png" alt="La imagen muestra una gráfica de geogebra" title="Geogebra" width="350" height="350" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<h2>Reconocemos las funciones en la vida real</h2>
+<p><img src="{{context_path}}/content/resources/F1_Baloncesto.jpg" alt="La imagen muestra a un jugador de baloncesto realizando un tiro" title="Baloncesto" width="350" height="233" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<h2>Aplicamos las funciones para diseñar una pista de cuadriatlón de deportes de invierno.&nbsp;</h2>
+<p><img src="{{context_path}}/content/resources/f1_estrategia_4.1.png" alt="La imagen muestra varios deportes de invierno" title="Deportes de invierno" width="350" height="280" style="display: block; margin-left: auto; margin-right: auto;"></p>
+</div>
+<div id="te378f3e1-a179-ced1-e8aa-96f6d4179920" class="exe-tooltip-text"><img src="{{context_path}}/content/resources/geogebra.jpg" alt="La imagen muestra una captura de pantalla de Geogebra en español. " title="Geogebra" width="100" style="float: left; margin-right: 10px; margin-left: 10px;">
+
+<strong>Definición</strong>
+<p>Software de matemáticas para todos los niveles educativos.</p>
+<strong>Ejemplo</strong>
+<p>Realiza la actividad utilizando Geogebra.</p>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. De camino</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. De camino</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. De camino</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+      <odeBlockId>block-mob8cbet-b6h5x7jxy</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+          <odeBlockId>block-mob8cbet-b6h5x7jxy</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbet-r0f28lgws</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2>Diccionario</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="exe-fx exe-accordion">
+<h2>Codificado</h2>
+<p><img src="{{context_path}}/content/resources/codificado.png" alt="La imagen muestra el código binario formado por ceros y unos. " title="Codificado" width="124" height="71" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Mensaje expresado mediante un código.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>El mensaje está codificado.</p>
+</dd>
+</dl>
+<h2>Desafíos</h2>
+<p><img src="{{context_path}}/content/resources/desafio.png" alt="La imagen muestra un cubo de Rubik." title="Desafío " width="125" height="130" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Situación difícil o peligrosa con la que alguien se enfrenta.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>La resolución de problemas en matemáticas es un desafío para los estudiantes.</p>
+</dd>
+</dl>
+<h2>Tabla de valores</h2>
+<p><img src="{{context_path}}/content/resources/TABLA_DE_VALORES.jpg" alt="La imagen muestra una tabla de valores." title="Tabla de valores" width="125" height="148" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<dl style="overflow: hidden;">
+<dt><strong>Definición</strong></dt>
+<dd>
+<p>Representación de datos mediante pares ordenados, que expresan la relación existente entre dos magnitudes.</p>
+</dd>
+<dt><strong>Ejemplo</strong></dt>
+<dd>
+<p>Construye una tabla de valores y represéntalos gráficamente.</p>
+</dd>
+</dl>
+</div></div></div></section><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div style="display: flex; align-items: center; flex-wrap: wrap;">
+<figure class="exe-figure exe-image float-left license-copyright" style="width: 250px; flex: none;"><img src="{{context_path}}/content/resources/recto_parabolo.png" width="250" height="260" style="float: left;" alt="Rectoparábolo dice..." title="Rectoparábolo"></figure>
+<div style="flex: 1;">
+<p>Afunción ha quedado con Rectoparábolo en encontrarse a mitad de camino hacia Sierra Nevada. En cuanto se presentan, Rectoparábolo invita a Afunción a resolver <a href="#tb85bc28a-a9a5-1468-0e88-3fad9680b029" id="linkb85bc28a-a9a5-1468-0e88-3fad9680b029" class="exe-tooltip definition-tt titled-tt" title="Desafío | Acceder a la definición de desafío">desafíos</a> matemáticos que le ayuden a sacar del baúl de los recuerdos esos <strong>conocimientos</strong> casi olvidados.</p>
+<p>Vamos a comenzar poco a poco por lo más <strong>sencillo</strong>. ¿Cómo eran esas cosas que no tenían curvas?</p>
+</div>
+</div>
+<div id="tb85bc28a-a9a5-1468-0e88-3fad9680b029" class="exe-tooltip-text"><img src="{{context_path}}/content/resources/desafio.png" alt="La imagen muestra un cubo de Rubik." title="Desafío " width="100" style="float: left; margin-right: 10px; margin-left: 10px;"><strong>Definición</strong>
+<p>Situación difícil o peligrosa con la que alguien se enfrenta.</p>
+<strong>Ejemplo</strong>
+<p>La resolución de problemas en matemáticas es un desafío para los estudiantes.</p>
+</div></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><div class="facilitada">
+<p>Afunción ha quedado con Rectoparábolo a mitad de camino hacia Sierra Nevada.</p>
+<p>Rectoparábolo invita a Afunción a resolver <strong><a href="#te72be3c6-e579-ebd7-ef3f-7459d0362fd2" id="linke72be3c6-e579-ebd7-ef3f-7459d0362fd2" class="exe-tooltip definition-tt titled-tt" title="Desafíos | Acceder a la definición de desafíos">desafíos</a></strong> matemáticos. </p>
+<p>Rectoparábolo y Afunción recordarán conocimientos olvidados.</p>
+<p>Comienza por los conocimientos más sencillos. </p>
+<p>¿Qué es lo contrario de curva?  </p>
+</div>
+<div id="te72be3c6-e579-ebd7-ef3f-7459d0362fd2" class="exe-tooltip-text">
+<div class="facilitada"><img src="{{context_path}}/content/resources/desafio.png" alt="La imagen muestra un cubo de Rubik." title="Desafío " width="125" height="130" style="float: left; margin-right: 10px; margin-left: 10px;"> <strong>Definición</strong>
+<p>Situación difícil o peligrosa con la que alguien se enfrenta.</p>
+<strong>Ejemplo</strong>
+<p>La resolución de problemas en matemáticas es un desafío para los estudiantes.</p>
+</div>
+</div><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+      <odeBlockId>block-mob8cbeu-hpzey64qq</odeBlockId>
+      <blockName>1. ¿De qué hablamos?</blockName>
+      <iconName>udl_exp_grupoheterogeneo</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+          <odeBlockId>block-mob8cbeu-hpzey64qq</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbeu-smo2r0gp3</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div style="display: flex; align-items: center; flex-wrap: wrap;">
+<figure class="exe-figure exe-image float-left license-copyright" style="width: 125px; flex: none;"><img src="{{context_path}}/content/resources/Afuncion.png" alt="Afunción dice.." style="float: left;" title="Afunción" width="125"></figure>
+<div style="flex: 1;">
+<p>Vas a ver el montón de cosas que vamos a aprender. Tu atento a todo que ya verás.</p>
+<p>Rectoparábolo me ha querido poner a prueba, me ha pasado un mensaje <a href="#t0a9d9514-18dc-1a6f-7f6c-8c62ef0171e7" id="link0a9d9514-18dc-1a6f-7f6c-8c62ef0171e7" class="exe-tooltip definition-tt titled-tt" title="Codificado | Acceder a la definición de codificado">codificado</a>, pero me está costando adivinar de qué estamos hablando. ¿Me ayudas?</p>
+</div>
+</div>
+<div class="exe-fx exe-accordion">
+<h2>Pista 1</h2>
+<p>Es una relación entre dos conjuntos. El conjunto de partida es el <strong>conjunto inicial</strong> y el de llegada es el <strong>conjunto final</strong>.</p>
+<h2>Pista 2</h2>
+<p>A cada valor del conjunto inicial le corresponde <strong>un único valor</strong> del conjunto final.</p>
+<h2>Pista 3</h2>
+<p>Se describe con un <strong>enunciado</strong>, una <a href="#td06d5976-a792-3bca-b2fd-3fc7d740f4ba" id="linkd06d5976-a792-3bca-b2fd-3fc7d740f4ba" title="Tabla de valores | Acceder a la definición de tabla de valores" class="exe-tooltip definition-tt titled-tt"><strong>tabla de valores</strong></a> o una <strong>fórmula</strong>.</p>
+<h2>Pista 4</h2>
+<p>Se me olvidaba, también se describe utilizando una <strong>gráfica</strong>.</p>
+<h2>Pista 5</h2>
+<p><strong>y=f(x)</strong></p>
+</div>
+<div id="t0a9d9514-18dc-1a6f-7f6c-8c62ef0171e7" class="exe-tooltip-text"><img src="{{context_path}}/content/resources/codificado.png" alt="La imagen muestra el código binario formado por ceros y unos. " title="Codificado" style="float: left; margin-right: 10px; margin-left: 10px;" width="100"> <strong>Definición</strong>
+<p>Mensaje expresado mediante un código.</p>
+<strong>Ejemplo</strong>
+<p>El mensaje está codificado.</p>
+</div>
+<div id="td06d5976-a792-3bca-b2fd-3fc7d740f4ba" class="exe-tooltip-text"><img src="{{context_path}}/content/resources/TABLA_DE_VALORES.jpg" alt="La imagen muestra una tabla de valores." title="Tabla de valores" style="float: left; margin-right: 10px; margin-left: 10px;" width="100"><strong>Definición</strong>
+<p>Representación de datos mediante pares ordenados, que expresan la relación existente entre dos magnitudes.</p>
+<strong>Ejemplo</strong>
+<p>Construye una tabla de valores y represéntalos gráficamente.</p>
+</div></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><div class="facilitada">
+<p>Vas a aprender muchas cosas. </p>
+<p>Rectoparábolo ha pasado un mensaje <strong><a href="#t70c5413f-370c-f071-25b4-fe622c6674e7" id="link70c5413f-370c-f071-25b4-fe622c6674e7" class="exe-tooltip definition-tt titled-tt" title="Codificado | Acceder a la definición de codificado">codificado</a>.</strong> </p>
+<p>¿Puedes descifrar el mensaje codificado?</p>
+<div class="exe-fx exe-accordion">
+<h2>Pista 1</h2>
+<p>Es una relación entre dos conjuntos. </p>
+<p>El conjunto de partida es el conjunto inicial.</p>
+<p>El conjunto de llegada es el conjunto final.</p>
+<h2>Pista 2</h2>
+<p>A cada valor del conjunto inicial le corresponde un único valor del conjunto final.</p>
+<h2>Pista 3</h2>
+<p>Se describe con un enunciado.</p>
+<p>Se describe con una <strong><a href="#tc3fa8e0b-998e-4cec-3e0a-f9578342a640" id="linkc3fa8e0b-998e-4cec-3e0a-f9578342a640" class="exe-tooltip definition-tt titled-tt" title="Tabla de valores | Accede a la definición de tabla de valores">tabla de valores</a></strong>.</p>
+<p>También se puede describir con una fórmula.</p>
+<h2>Pista 4</h2>
+<p>Se describe utilizando una gráfica.</p>
+<h2>Pista 5</h2>
+<p><img src="{{context_path}}/content/resources/pista_5.jpeg" alt="La imagen muestra que la variable " y="" es="" funci="" n="" de="" otra="" variable="" x="" title="Representación de una función" style="display: block; margin-left: auto; margin-right: auto;" width="500" height="151"></p>
+</div>
+</div>
+<div id="t70c5413f-370c-f071-25b4-fe622c6674e7" class="exe-tooltip-text">
+<div class="facilitada"><img src="{{context_path}}/content/resources/codificado.png" alt="La imagen muestra el código binario formado por ceros y unos. " title="Codificado" style="float: left; margin-right: 10px; margin-left: 10px;" width="124" height="71"> <strong>Definición</strong>
+<p>Mensaje expresado mediante un código.</p>
+<strong>Ejemplo</strong>
+<p>El mensaje está codificado.</p>
+</div>
+</div>
+<div id="tc3fa8e0b-998e-4cec-3e0a-f9578342a640" class="exe-tooltip-text">
+<div class="facilitada"><img src="{{context_path}}/content/resources/TABLA_DE_VALORES.jpg" alt="La imagen muestra una tabla de valores." title="Tabla de valores" style="float: left; margin-right: 10px; margin-left: 10px;" width="125" height="148"> <strong>Definición</strong>
+<p>Representación de datos mediante pares ordenados, que expresan la relación existente entre dos magnitudes.</p>
+<strong>Ejemplo</strong>
+<p>Construye una tabla de valores y represéntalos gráficamente.</p>
+</div>
+</div><button class="exe-udlContent-alt-content-hide">Cerrar</button></article><article class="exe-udlContent-content-audio js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Audio</h2></header><p><audio controls="controls" src="{{context_path}}/content/resources/Audio_2_REA_3_Relacion_entre_conjuntos.mp3"><a href="{{context_path}}/content/resources/Audio_2_REA_3_Relacion_entre_conjuntos.mp3">audio/mpeg</a></audio></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article><article class="exe-udlContent-content-visual js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Apoyo visual</h2></header><p><img src="{{context_path}}/content/resources/f2_idv1_apoyo_visual.png" alt="La imagen muestra una relación entre dos conjuntos." title="Función" style="display: block; margin-left: auto; margin-right: auto;" width="600" height="424"></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="exe-game exe-hangman">
+<div class="exe-game-content">
+<p class="exe-hangman-letters">aábcdeéfghiíjklmnñoópqrstuúvwxyz</p>
+<dl>
+<dt>¿Qué elemento matemático tiene estas carácteristicas?</dt>
+<dd>RlVOQ0nDk04=</dd>
+</dl>
+</div>
+<p class="exe-game-warning">Por favor active JavaScript para poder jugar a este juego.</p>
+</div></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2>Identifica estas pistas</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: center;"><iframe width="800" height="600" src="https://blogsaverroes.juntadeandalucia.es/ejerciciosrea/wp-admin/admin-ajax.php?action=h5p_embed&id=984" allowfullscreen="allowfullscreen" frameborder="0"></iframe></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+      <odeBlockId>block-mob8cbeu-ubxmlimht</odeBlockId>
+      <blockName>2. ¿Recuerdas alguna tarea parecida?</blockName>
+      <iconName>udl_rep_reflexion</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+          <odeBlockId>block-mob8cbeu-ubxmlimht</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbeu-go26yf4dk</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Para llegar a una meta, es conveniente que seas un buen o buena estratega. Es decir, tener métodos, técnicas, “trucos” para llegar antes o de forma más fácil donde tú quieres.</p>
+<p>Ahora te voy a enseñar una estrategia, ¡Aprovéchala para alcanzar tu reto!<br>La estrategia que te propongo se llama “Recuerdo y evocación”.&nbsp;</p>
+<p>Cuando vayas a realizar una tarea como la siguiente ¡Paseo al Mulhacén!, es interesante que recuerdes otras tareas parecidas que ya hayas realizado anteriormente.&nbsp;</p>
+<p>Así puedes hacer la nueva tarea aprovechando lo que habías aprendido.&nbsp;&nbsp;</p>
+<p>Para ayudarte te propongo que leas y trabajes el apartado <a href="https://edea.juntadeandalucia.es/bancorecursos/file/5505faaa-51b5-4782-8924-6221b4cc7b05/1/guia_aprender_a_aprender_secundaria_REA_Andalucia.zip/recuerdo_alguna_tarea_similar.html" target="_blank" title="Accede a la página " recuerdo="" alguna="" tarea="" similar="" de="" la="" gu="" a="" aprender="" se="" abre="" en="" ventana="" nueva="" rel="noopener">Recuerdo alguna tarea similar</a> que aparece en la Guía de Aprender a Aprender.</p>
+<p>¡Ánimo, que lo harás genial!</p>
+<div id="paseomul"></div></div><article class="exe-udlContent-content-visual js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Apoyo visual</h2></header><p><img src="{{context_path}}/content/resources/APOYO_VISUAL_ESTRATEGIA_REA_3.png" alt="" width="600" height="849" style="display: block; margin-left: auto; margin-right: auto;"></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+      <odeBlockId>block-mob8cbeu-muknryrr1</odeBlockId>
+      <blockName>3. Paseo al Mulhacén</blockName>
+      <iconName>udl_exp_tareagrupal</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+          <odeBlockId>block-mob8cbeu-muknryrr1</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbeu-q5aee7hm0</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Afunción quiere estar una temporada practicando deporte en altura, para que de esa manera aumente su resistencia física de base y tenga más capacidad de recuperación, así que queda con Rectoparábola para <strong>planear</strong> su viaje al Mulhacen y visitar el <a href="http://carsierranevada.com/" target="_blank" title="Accede a la web del CAR de Sierra Nevada (Abre en ventana nueva)" rel="noopener">CAR</a> (centro de alto rendimiento).</p>
+<p>El viaje va a consistir en conocer diferentes <strong>pueblos</strong> <strong>de</strong> <strong>Granada</strong> y por último, un tramo de <strong>senderismo</strong> que finalizará en el Mulhacen. Afunción le dice a Rectoparábola que como la altura en la que van a estar es un punto muy importante en su preparación física, sería muy conveniente realizar un estudio sobre esta variable. Así que vamos a ayudar a nuestros dos amigos a realizar una representación gráfica de las alturas de los pueblos por donde van a pasar. Junto a algunos compañeros y compañeras de tu clase vamos a construir esa gráfica y para ayudaros a encontrar las alturas de los pueblos os vamos a describir un poco el <strong>viaje</strong> de nuestros amigos:</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><div class="facilitada">
+<p>Afunción quiere practicar deporte en altura.</p>
+<p>Afunción quiere aumentar su resistencia física. </p>
+<p>Afunción quiere tener más capacidad de recuperación. </p>
+<p>Afunción queda con Rectoparábolo </p>
+<p>para planear su viaje al Mulhacén.</p>
+<p>Afunción y Rectoparábolo visitan el CAR.</p>
+<p>CAR es el centro de alto rendimiento. </p>
+<p>El viaje consiste en conocer diferentes pueblos de Granada. </p>
+<p>Por último, Afunción y Rectoparábolo tendrán </p>
+<p>que hacer un tramo de senderismo. </p>
+<p>El tramo de senderismo finalizará en el Mulhacén. </p>
+<p>Afunción le dice a Rectoparábolo </p>
+<p>que deben realizar un estudio de la altura. </p>
+<p>Ayuda a Afunción y a Rectoparábolo </p>
+<p>a realizar una representación gráfica</p>
+<p>de las alturas de los pueblos por donde van a pasar. </p>
+<p>Junto a compañeros y compañeras de tu clase construye una gráfica. </p>
+<p>Fíjate en el viaje de Afunción y Rectoparábolo</p>
+<p>para ayudarte a encontrar las alturas de los pueblos. </p>
+</div><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: center;"><iframe width="958" height="680" src="https://blogsaverroes.juntadeandalucia.es/ejerciciosrea/wp-admin/admin-ajax.php?action=h5p_embed&id=1037">
+    </iframe></p></div></div></section><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>El viaje que vamos a representar va a ser el mismo que si acompañáramos a nuestros amigos así que los diferentes tramos serán:</p>
+<ul>
+<li><strong>Nuestro lugar de residencia</strong> - Almuñécar - <strong>Salobreña</strong> - Lanjarón - <strong>Órgiva</strong> - Pampaneira - <strong>Bubión</strong> - Capileira - <strong>Trevélez</strong> - Mulhacen</li>
+</ul>
+<p>Otra cuestión interesante, es estudiar las distancias que hay de unos pueblos a otros y ver cuántos kilómetros vamos a hacer en total, así que resumiendo:</p>
+<ol>
+<li>Realizad una gráfica donde se muestre las diferencias de <strong>altura</strong> de los sitios por donde vamos a pasar.</li>
+<li>Realizad otra gráfica que muestre las <strong>distancias</strong> a esos sitios.</li>
+</ol>
+<p>Para hacer la representación gráfica, primero realizad un esbozo de ella en vuestro cuaderno y luego tendréis que representarla en <a href="https://www.geogebra.org/classic" target="_blank" title="Accede a la web de Geogebra (Abre en ventana nueva)" rel="noopener">Geogebra</a>. Claro que os preguntaréis cómo podréis dibujar en Geogebra los diferentes tramos por donde van a ir pasando nuestro amigos.</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><div class="facilitada">
+<p>Los tramos del viaje son: </p>
+<ol>
+<li>Nuestro lugar de residencia</li>
+<li>Almuñécar </li>
+<li>Salobreña </li>
+<li>Lanjarón</li>
+<li>Órgiva</li>
+<li>Pampaneira</li>
+<li>Bubión</li>
+<li>Capileira</li>
+<li>Trevélez</li>
+<li>Mulhacén</li>
+</ol>
+<p>Además, estudia las distancias que hay de unos pueblos a otros.</p>
+<p>Averigua cuántos kilómetros vais a hacer en total. </p>
+<p>Resumen de las actividades que tenéis que hacer. </p>
+<ol>
+<li>Realiza una gráfica que muestre las diferencias de altura de los sitios  <br>por donde vais a pasar.</li>
+<li>Realiza otra gráfica que muestre las distancias a esos sitios.</li>
+</ol>
+<p>Para hacer la representación gráfica:</p>
+<ol>
+<li>Realiza la gráfica en vuestro cuaderno.</li>
+<li>Representa la gráfica en <a href="https://www.geogebra.org/classic" target="_blank" title="Accede a la web de Geogebra (Abre en ventana nueva)" rel="noopener">Geogebra</a>. </li>
+</ol>
+</div><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2>Ayuda con Geogebra</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Os vamos a dar <strong>3</strong> formas de dibujar este <strong>tipo</strong> de <strong>gráficas</strong> en Geogebra:</p>
+<ol>
+<li>Como son líneas rectas desde un pueblo a otro pueblo, podemos escoger la herramienta "Segmento" y pulsar dónde estaría nuestro inicio de ese segmento y dónde el final y así con el siguiente hasta terminar nuestro viaje. Claro que también podríamos en vez de pulsar con el ratón el inicio y final de ese tramo, podríamos utilizar la barra de entrada de Geogebra para utilizar el comando&nbsp;<strong>Segmento(<punto1>,<punto2>)&nbsp;</punto2></punto1></strong>donde <punto1> por ejemplo sería las coordenadas de un punto (x,y).</punto1></li>
+<li>Introducimos en la barra de entrada el comando&nbsp;<strong>Función()</strong>&nbsp;y dentro de los paréntesis escribimos la función (línea recta en nuestro caso), luego "coma", el primer valor del intervalo, "coma" y el segundo valor del intervalo. Esto hay que hacerlo para cada uno de los tramos que compongan la función. La ventaja de hacerlo así es que GeoGebra trabaja cada "tramo" como una función distinta y eso me permitirá, por ejemplo, cambiar de color cada trozo de la función.</li>
+<li>También lo podemos hacer con el comando&nbsp;<strong>Si()</strong>. En este caso podemos escribir la función entera con un sólo comando:&nbsp;<strong>Si(trozo1,función 1,trozo 2, función 2, trozo 3, función 3)</strong>. Geogebra lo trata como una única función.</li>
+</ol>
+<p>El símbolo del infinito "∞" lo podemos escribir con la combinación de teclas&nbsp;<strong>Alt+u</strong>&nbsp;o dando al botón α&nbsp;en la parte derecha de la barra de entrada y eligiendo el símbolo ∞.</p></div></div></section><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Otra variable que tendréis que encontrar son las distancias de unos sitios a otros, para ello os puede resultar útil lo siguiente:</p>
+<p style="text-align: center;"><a href="https://blogsaverroes.juntadeandalucia.es/ejerciciosrea/resultado-recurso-h5p/?idshortcode=1067&titulo=Distancias%20entre%20poblaciones%20de%20Andaluc%C3%ADa" target="_blank" title="Accede al mapa interactivo para calcular las distancias entre las poblaciones" rel="noopener"><img src="{{context_path}}/content/resources/distancias.png" alt="La imagen muestra el mapa de carreteras de Andalucía" title="Mapa" width="601" height="355"></a></p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2>Ayuda mapa</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Con este mapa podemos averiguar la distancia entre dos poblaciones de Andalucía. En la parte superior derecha, nos encontramos 4 "listas desplegables". ¿Para qué sirven cada una?:</p>
+<ol>
+<li>En la primera eliges la provincia de origen.</li>
+<li>Cuando elijas la provincia de origen, en la segunda aparecerá las poblaciones de esa provincia. Elige la que quieras.</li>
+<li>En la tercera elige la provincia de destino.</li>
+<li>Cuando elijas la provincia de destino, en esta última lista, aparecerán las poblaciones de esa provincia. Elige la que quiera.&nbsp;</li>
+</ol></div></div></section><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>¿Conoces alguna técnica para realizar ésta u otras actividades grupales?. No te preocupes que en <a href="https://edea.juntadeandalucia.es/bancorecursos/file/6ad4ad0e-36f1-4599-9ee2-416d9a226360/1/guia_colaborativo_REA_Andalucia.zip/124.html" target="_blank" title="Accede a la guía de trabajo colaborativo" rel="noopener">este enlace</a> te pongo muchas, aunque te propongo una en concreto.&nbsp;</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+      <odeBlockId>block-mob8cbeu-fr3lzmxmu</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+          <odeBlockId>block-mob8cbeu-fr3lzmxmu</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbeu-d2afvpcz2</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-1"><h2><span class="sr-av">Motus dice... </span>¿Te has emocionado con estas actividades?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Una actividad de clase puede hacernos sentir de muchas maneras: confundido, inseguro, tensa, orgullosa...</p>
+<p>La forma en la que respondes ante una actividad grupal o individual puede decirte muchas cosas sobre ti.</p>
+<p>Si te sientes confundido o insegura, es porque se trata de una actividad nueva que no sabes muy bien cómo resolver. Si te sientes contenta, alegre u orgulloso, seguramente es porque sabes que serás capaz de hacerla muy bien.</p>
+<p>Si te sientes enfadada o tenso , es porque esa actividad es muy difícil o muy importante.</p>
+<p>Conocer las emociones que sientes cuando vas a hacer una actividad te ayudará a:</p>
+<p style="padding-left: 60px;">-&nbsp; Pedir ayuda.</p>
+<p style="padding-left: 60px;">-&nbsp; Relajarte para contestarla.</p>
+<p style="padding-left: 60px;">-&nbsp; Pensar en cómo podrás contestarla.</p>
+<p>¡Haz caso a tus emociones!</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+      <odeBlockId>block-mob8cbeu-7xadreqkm</odeBlockId>
+      <blockName>4. Explorando rectas</blockName>
+      <iconName>udl_exp_ejercicio</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+          <odeBlockId>block-mob8cbeu-7xadreqkm</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbeu-lhul41iu8</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div style="display: flex; align-items: center; flex-wrap: wrap;">
+<figure class="exe-figure exe-image float-left license-copyright" style="width: 125px; flex: none;"><img src="{{context_path}}/content/resources/recto_parabolo.png" alt="Rectoparábolo dice..." style="float: left; margin-right: 10px; margin-left: 10px;" width="125" height="130" title="Rectoparábolo"></figure>
+<div style="flex: 1;">
+<p>Venga Afunción, has visto que hacer trayectorias es facil, si usamos rectas.</p>
+<p>Pero, sabes <strong>muchas</strong> más cosas de estas <strong>funciones</strong>, vamos a recordar todo lo que sabemos.</p>
+</div>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>5</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+      <odeBlockId>block-mob8cbeu-8ppic4ild</odeBlockId>
+      <blockName>Opción A. ¿Me conoces?</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+          <odeBlockId>block-mob8cbeu-8ppic4ild</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbeu-32jase8r2</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Lee las siguientes frases y completa los huecos del texto</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Las funciones lineales son líneas rectas de ecuación y=mx+n, con m=pendiente y n=ordenada en el origen.</p>
+<p>Si m=0 son líneas horizontales y se llaman funciones constantes.</p>
+<p>Si n=0 son funciones de proporcionalidad.</p></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"questionsData":[{"activityType":"dropdown","baseText":"<p>Una función    <u>lineal:</u>   </p>\n<ul>\n<li>tiene por ecuación y=    <u>m</u>    x+    <u>n</u>    , </li>\n<li>se representa por una línea    <u>recta</u>   </li>\n<li>m es la    <u>pendiente</u>     </li>\n<li>n es la    <u>ordenada</u>    en el origen.</li>\n</ul>\n<p>Si m=0 las funciones se llaman    <u>constantes</u>    (línea    <u>horizontal</u>    ).</p>\n<p>Si n=0 las funciones se llaman de    <u>proporcionalidad directa</u>    .</p>\n<p>La pendiente se calcula:</p>\n<p class=\"exe-math-img\"><img alt=\"calculo de la pendiente\" src=\"eXe_LaTeX_math_1.gif\" style=\"vertical-align: baseline;\" width=\"88\" height=\"30\"></img></p>","wrongAnswersValue":""}],"eXeFormInstructions":"<p>Lee las siguientes frases y completa los huecos del texto</p>","eXeIdeviceTextAfter":"<p>Las funciones lineales son líneas rectas de ecuación y=mx+n, con m=pendiente y n=ordenada en el origen.</p>\n<p>Si m=0 son líneas horizontales y se llaman funciones constantes.</p>\n<p>Si n=0 son funciones de proporcionalidad.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>6</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+      <odeBlockId>block-mob8cbeu-xxrlgm675</odeBlockId>
+      <blockName>Opción B. Hay clases y clases.</blockName>
+      <iconName>udl_exp_interactivo</iconName>
+      <odePagStructureOrder>7</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+          <odeBlockId>block-mob8cbeu-xxrlgm675</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbeu-xxhgw1wak</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Recuerda que las funciones lineales se clasificaban en 3 grupos: función <a href="http://recursostic.educacion.es/descartes/web/materiales_didacticos/funciones_lineales_y_afines_dhafj/funcion_lineal_y_afin1.html" target="_blank" rel="noopener">afín</a>, función de <a href="http://recursostic.educacion.es/descartes/web/materiales_didacticos/funciones_primer_grado_mcmh/funcionlineal.htm" target="_blank" rel="noopener">proporcionalidad</a>&nbsp;y funciones <a href="https://es.wikipedia.org/wiki/Funci%C3%B3n_constante" target="_blank" rel="noopener">constantes</a>. Vamos a reorganizar las imágenes, características y funciones, colocándolas en la columna que creas que corresponda. Podrás coger más de una características que aparece en la parte derecha y colocarla en <strong>más de una</strong> columna si lo ves conveniente. Al final de la columna tienes una<strong> "i"</strong> para una pequeña ayuda, por si la necesitas.&nbsp;</p></div></div></section><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: center;"><iframe width="958" height="651" src="https://blogsaverroes.juntadeandalucia.es/ejerciciosrea/wp-admin/admin-ajax.php?action=h5p_embed&id=1041"></iframe></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>7</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+      <odeBlockId>block-mob8cbeu-pkhpufcg1</odeBlockId>
+      <blockName>Opción C. Miles de rectas</blockName>
+      <iconName>udl_exp_interactivo</iconName>
+      <odePagStructureOrder>8</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+          <odeBlockId>block-mob8cbeu-pkhpufcg1</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbeu-qibuztr8j</odeIdeviceId>
+          <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-stjmnctq auto-geogebra-width-1366 auto-geogebra-height-625 language-es auto-geogebra-scale-60"><div class="auto-geogebra-instructions"><p>Sigue las instrucciones, te permitirán generar una recta y moviendo los puntos podrás calcular la pendiente y la ordenada en el origen. Comprueba que tus cálculos son correctos.</p></div><p><a href="https://www.geogebra.org/m/stjmnctq" target="_blank">https://www.geogebra.org/m/stjmnctq (Ventana nueva)</a></p><div class="auto-geogebra-author js-hidden">Mayte%20Siles,https%3A//www.geogebra.org/m/dv4sw9f3,Recta_REA3,1,Autor%EDa</div><div class="auto-geogebra-extra-content"><p>Repite el ejercicio tantas veces como consideres necesario hasta qué lo domines</p></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>8</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+      <odeBlockId>block-mob8cbeu-arp9cs1hs</odeBlockId>
+      <blockName>Opción D. Rectas en las vasijas</blockName>
+      <iconName>udl_exp_tarea</iconName>
+      <odePagStructureOrder>9</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+          <odeBlockId>block-mob8cbeu-arp9cs1hs</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbeu-s531a9ote</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>¿Te has fijado cómo existen muchos vasos de diversa morfología?¿Te has preguntado alguna vez si a todos le cogen la <strong>misma</strong> cantidad de <strong>líquido</strong>?. Incluso para calibrar una vasija o una botella, de forma que se pueda utilizar para <strong>medir líquidos</strong>, es necesario saber de qué manera la <strong>altura</strong> del líquido depende del <strong>volumen</strong> que tiene la vasija.</p>
+<figure class="exe-figure exe-image position-center" style="width: 400px;"><img src="{{context_path}}/content/resources/Vasos_(morfologia).jpg" alt="La imagen muestra vasos con diferentes morfologías" width="400" height="271" title="Morfologías de vasos"></figure></div></div></section><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Es muy interesante ver cómo varía la <strong>altura</strong> del líquido a medida que cae éste dentro de él de forma continua. Vamos a ver algún ejemplo representando en una gráfica, la altura del líquido en el recipiente respecto al <strong>volumen</strong>.&nbsp;</p>
+<div class="exe-fx exe-carousel">
+<h2>Vasijas A y B</h2>
+<p>En la gráfica que se muestra debajo, se ve cómo varía la altura del líquido en la <strong>vasija X</strong> a medida que el fluido cae dentro de ella de forma <a href="#tbb071be5-c042-2b83-f118-dc938f251f15" id="linkbb071be5-c042-2b83-f118-dc938f251f15" class="exe-tooltip definition-tt">continua</a>.&nbsp;</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/Vasijas_1_v2.png" alt="La imagen muestra la función y recipientes A y B" width="500" height="459" title="Función y recipientes A y B"></p>
+<ul>
+<li>Copia la gráfica en tu cuaderno y en la misma, muestra la relación altura-volumen para las <strong>Vasijas A y B</strong>.</li>
+</ul>
+<div id="tbb071be5-c042-2b83-f118-dc938f251f15" class="exe-tooltip-text">
+<p>Aproximando este llenado de la vasija a lo que los físicos podrían llamar un flujo laminar (sin saltos en el llenado)</p>
+</div>
+<h2>Vasijas C y D</h2>
+<ul>
+<li>Ahora haz lo mismo que el ejercicio anterior, pero con otros dos vasos distintos C y D, así que dibuja ahora dos gráficas más sobre la que ya tienes abajo (flecha roja) para <strong>C y D</strong>:</li>
+</ul>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/Vasijas_2_v2.png" alt="La imagen muestra la gráfica de las vasijas C y D" width="500" height="430" title="Vasijas C y D"> <br><br></p>
+<h2>Vasijas E y F</h2>
+<ul>
+<li>Y por último, de nuevo cambian las vasijas, ahora son diferentes y tienen dos niveles distintos de llenado, así que sobre la gráfica del vaso x (flecha roja) pinta las funciones que representarían&nbsp;<strong>E y F</strong>.</li>
+</ul>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/Vasijas_3_v2.png" alt="La imagen muestra las vasijas E y F" width="500" height="473" title="Vasijas E y F"></p>
+</div></div></div></section><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Pulsa en este vaso que te muestro para experimentar con Sketchup</p>
+<p style="text-align: center;"><iframe width="580" height="326" src="https://embed-3dwarehouse.sketchup.com/embed/495deb5d-726e-4a82-8c7c-9d35e4c36c4e" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowfullscreen="allowfullscreen">
+    </iframe></p></div></div></section><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><ul>
+<li>¿Te atreves ahora a diseñar las vasijas si tenemos la gráfica del <strong>gradiente</strong> de llenado? y ya si eres un MAKER total, atrévete a diseñarlas en <a href="https://www.sketchup.com/es/plans-and-pricing#for-personal" target="_blank" alt="Accede a la web de Sketchup" title="Accede a la web de Sketcup" rel="noopener">SketchUp</a>. Pulsa en "Registro" y empieza a diseñar. Te he dejado arriba una vasija hecha por mí para que veas alguna cosa que puedes hacer. ¡¡¡Ahhhh!!! y luego incluso la puedes imprimir con una <strong>impresora 3D</strong>.</li>
+</ul>
+<figure class="exe-figure exe-image position-center license-CC-BY-SA" style="width: 801px; text-align: center;"><img src="{{context_path}}/content/resources/f2_graficas_vasijas.png" alt="La imagen muestra la comparación entre vasos y vasijas" width="1000" height="382" title="Gráficas vs vasijas">
+<figcaption class="figcaption"><br><br><br></figcaption>
+</figure></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-4"><h2><span class="sr-av">Lumen dice... </span>¿Te ayudo con el gradiente de las vasijas?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Aquí tienes una <strong>ayuda</strong>, que te va a guiar con lo que pasa con el <strong>cambio</strong> de la morfología de las vasijas:</p>
+<p style="text-align: center;"><iframe width="975" height="450px" src="https://www.geogebra.org/material/iframe/id/hdm5umkk/width/1342/height/618/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" data-mce-fragment="1">
+    </iframe></p></div></div></section><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Aquí tienes el fichero <a href="{{context_path}}/content/resources/Vaso.stl" title="Accede al fichero vaso.stl" download="">vaso.stl</a> para imprimir tu propia vasija en 3D. Si prefieres modificarlo y darle tu toque personal, aquí tienes el fichero <a href="{{context_path}}/content/resources/Vaso.skp" title="Accede al fichero vaso.skp" download="">vaso.skp</a> para poder hacerlo.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>9</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+      <odeBlockId>block-mob8cbev-27gp0xqut</odeBlockId>
+      <blockName>5. Amplía tus conocimientos. Rectas para escapar del laberinto</blockName>
+      <iconName>udl_exp_juego</iconName>
+      <odePagStructureOrder>10</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+          <odeBlockId>block-mob8cbev-27gp0xqut</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbev-3dtl2yz09</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Te propongo un juego. La línea recta es lo que nos mueve en estas actividades y solo a través de ella podrás salir del <strong>LABERINTO</strong>, pero antes tendrás que describir con bloques cómo llegar a la salida. Arrastra los bloques centrales a la parte derecha para construir el programa. Tienes 10 laberintos, cuando salgas de uno, haz una captura de pantalla.</p>
+<figure class="exe-figure exe-media position-center" style="width: 900px;"><iframe width="900" height="950" src="https://blogsaverroes.juntadeandalucia.es/ejerciciosrea/wp-admin/admin-ajax.php?action=h5p_embed&id=1057"></iframe>
+<p><br><br><br></p>
+</figure></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>10</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+      <odeBlockId>block-mob8cbev-rb563xcrm</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>11</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+          <odeBlockId>block-mob8cbev-rb563xcrm</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbev-00i9koegh</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-3"><h2><span class="sr-av">Clavis dice... </span>Repasa tus respuestas</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Cuando realizas una actividad ya sea grupal o individual es importante que reflexiones sobre las respuestas que has dado.</p>
+<p>Antes de finalizar una actividad grupal es necesario que se corrijan posibles errores o confusiones.</p>
+<p>De esta manera cuando entregues el trabajo a tu profesorado estará todo revisado.&nbsp;</p>
+<p>¡Ánimo! ¡Seguro que tu esfuerzo tiene su recompensa!</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>11</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+      <odeBlockId>block-1776942710713-5xcj7ex27</odeBlockId>
+      <blockName>Funciones de variable real</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>12</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+          <odeBlockId>block-1776942710713-5xcj7ex27</odeBlockId>
+          <odeIdeviceId>idevice-1776942710711-n5se54rsv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <style>
+    body {
+      font-family: Georgia, serif;
+      padding: 24px;
+      background: #fff;
+      color: #222;
+    }
+
+    h2 {
+      font-size: 1.2rem;
+      color: #1a5276;
+      border-left: 4px solid #1a5276;
+      padding-left: 10px;
+      margin-top: 40px;
+    }
+
+    p {
+      font-size: 0.97rem;
+      line-height: 1.6;
+      margin-bottom: 8px;
+    }
+
+    ol {
+      font-size: 0.97rem;
+      line-height: 1.8;
+      padding-left: 20px;
+    }
+
+    table {
+      border-collapse: collapse;
+      margin: 16px 0;
+      font-size: 0.95rem;
+    }
+
+    th {
+      background: #1a5276;
+      color: #fff;
+      padding: 8px 20px;
+    }
+
+    td {
+      border: 1px solid #ccc;
+      padding: 7px 20px;
+      text-align: center;
+    }
+
+    .nota {
+      background: #eaf4fb;
+      border: 1px solid #aed6f1;
+      border-radius: 6px;
+      padding: 12px 16px;
+      margin-top: 8px;
+      font-size: 0.93rem;
+    }
+
+    .badge {
+      display: inline-block;
+      background: #d4ac0d;
+      color: #fff;
+      font-size: 0.78rem;
+      font-weight: bold;
+      padding: 2px 10px;
+      border-radius: 20px;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+
+    hr {
+      border: none;
+      border-top: 1px solid #ddd;
+      margin: 36px 0;
+    }
+  </style>
+<!-- ===================== ACTIVIDAD 1 ===================== -->
+<h2>Actividad 1 — Análisis de una gráfica</h2>
+<p>Una familia realiza un viaje y el coste total (€) depende del número de días. Observa la gráfica y responde las siguientes preguntas.</p>
+<p>                   <img src="{{context_path}}/content/resources/mceclip0.png" title="Gráfica actividad 1" width="248" height="293" alt="Gráfica actividad 1" style="display: block; margin-left: auto; margin-right: auto;" />    <br /></p>
+<div class="nota">💡 <strong>Recuerda:</strong> una función <em>crece</em> cuando sube de izquierda a derecha, y <em>decrece</em> cuando baja.</div>
+<ol>
+<li>¿En qué intervalos crece la función?</li>
+<li>¿En qué intervalos decrece?</li>
+<li>Indica si hay algún máximo y mínimo.</li>
+<li>¿Qué significa el punto más alto en el contexto del problema?</li>
+<li>¿Qué ocurre en los primeros días del viaje según la gráfica?</li>
+</ol>
+<!-- ===================== ACTIVIDAD 2 ===================== -->
+<h2>Actividad 2 — Representación e interpretación</h2>
+<p>Una pareja organiza un viaje de vacaciones. El gasto acumulado (€) a lo largo de los días es el siguiente:</p>
+<table>
+<tbody>
+<tr>
+<th>Día</th>
+<th>Gasto acumulado (€)</th>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>120</td>
+</tr>
+<tr>
+<td>2</td>
+<td>250</td>
+</tr>
+<tr>
+<td>3</td>
+<td>400</td>
+</tr>
+<tr>
+<td>4</td>
+<td>380</td>
+</tr>
+<tr>
+<td>5</td>
+<td>450</td>
+</tr>
+</tbody>
+</table>
+<ol>
+<li>Representa estos puntos en GeoGebra.</li>
+<li>Une los puntos para formar la gráfica.</li>
+<li>Describe el comportamiento de la función.</li>
+<li>Indica si hay máximos o mínimos relativos.</li>
+<li>Explica por qué el coste disminuye en algún momento.</li>
+</ol>
+<div class="nota">🔗<strong>Entrega en Google Classroom</strong>:  Puedes usar GeoGebra online en <a href="https://www.geogebra.org/graphing" target="_blank" rel="noopener">geogebra.org/graphing</a>. Para introducir los puntos, escribe en la barra de entrada: <code>(0,0)</code>, <code>(1,120)</code>, etc.</div>
+<hr /><!-- ===================== ACTIVIDAD 3 ===================== -->
+<h2>Actividad 3 — Diseño y análisis de un viaje <span class="badge">Para subir nota</span></h2>
+<p>Imagina un viaje de 7 días y diseña tú mismo la función de gasto acumulado.</p>
+<ol>
+<li>Inventa una tabla de valores (día vs coste acumulado) para los 7 días.</li>
+<li>Representa la gráfica en GeoGebra.</li>
+<li>Asegúrate de que haya al menos un tramo creciente y al menos uno decreciente.</li>
+<li>Identifica los máximos y mínimos de tu función.</li>
+<li>Explica el contexto del viaje: ¿qué ocurre cada día para justificar esos gastos?</li>
+</ol>
+<div class="nota">📤 <strong>Entrega en Google Classroom:</strong> captura de pantalla de la gráfica en GeoGebra y una explicación escrita de tu tabla y su contexto.</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776942710711-n5se54rsv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<style>\n    body {\n      font-family: Georgia, serif;\n      padding: 24px;\n      background: #fff;\n      color: #222;\n    }\n\n    h2 {\n      font-size: 1.2rem;\n      color: #1a5276;\n      border-left: 4px solid #1a5276;\n      padding-left: 10px;\n      margin-top: 40px;\n    }\n\n    p {\n      font-size: 0.97rem;\n      line-height: 1.6;\n      margin-bottom: 8px;\n    }\n\n    ol {\n      font-size: 0.97rem;\n      line-height: 1.8;\n      padding-left: 20px;\n    }\n\n    table {\n      border-collapse: collapse;\n      margin: 16px 0;\n      font-size: 0.95rem;\n    }\n\n    th {\n      background: #1a5276;\n      color: #fff;\n      padding: 8px 20px;\n    }\n\n    td {\n      border: 1px solid #ccc;\n      padding: 7px 20px;\n      text-align: center;\n    }\n\n    .nota {\n      background: #eaf4fb;\n      border: 1px solid #aed6f1;\n      border-radius: 6px;\n      padding: 12px 16px;\n      margin-top: 8px;\n      font-size: 0.93rem;\n    }\n\n    .badge {\n      display: inline-block;\n      background: #d4ac0d;\n      color: #fff;\n      font-size: 0.78rem;\n      font-weight: bold;\n      padding: 2px 10px;\n      border-radius: 20px;\n      margin-left: 8px;\n      vertical-align: middle;\n    }\n\n    hr {\n      border: none;\n      border-top: 1px solid #ddd;\n      margin: 36px 0;\n    }\n  </style>\n<!-- ===================== ACTIVIDAD 1 ===================== -->\n<h2>Actividad 1 — Análisis de una gráfica</h2>\n<p>Una familia realiza un viaje y el coste total (€) depende del número de días. Observa la gráfica y responde las siguientes preguntas.</p>\n<p>                   <img src=\"{{context_path}}/content/resources/mceclip0.png\" title=\"Gráfica actividad 1\" width=\"248\" height=\"293\" alt=\"Gráfica actividad 1\" style=\"display: block; margin-left: auto; margin-right: auto;\" />    <br /></p>\n<div class=\"nota\">💡 <strong>Recuerda:</strong> una función <em>crece</em> cuando sube de izquierda a derecha, y <em>decrece</em> cuando baja.</div>\n<ol>\n<li>¿En qué intervalos crece la función?</li>\n<li>¿En qué intervalos decrece?</li>\n<li>Indica si hay algún máximo y mínimo.</li>\n<li>¿Qué significa el punto más alto en el contexto del problema?</li>\n<li>¿Qué ocurre en los primeros días del viaje según la gráfica?</li>\n</ol>\n<!-- ===================== ACTIVIDAD 2 ===================== -->\n<h2>Actividad 2 — Representación e interpretación</h2>\n<p>Una pareja organiza un viaje de vacaciones. El gasto acumulado (€) a lo largo de los días es el siguiente:</p>\n<table>\n<tbody>\n<tr>\n<th>Día</th>\n<th>Gasto acumulado (€)</th>\n</tr>\n<tr>\n<td>0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>1</td>\n<td>120</td>\n</tr>\n<tr>\n<td>2</td>\n<td>250</td>\n</tr>\n<tr>\n<td>3</td>\n<td>400</td>\n</tr>\n<tr>\n<td>4</td>\n<td>380</td>\n</tr>\n<tr>\n<td>5</td>\n<td>450</td>\n</tr>\n</tbody>\n</table>\n<ol>\n<li>Representa estos puntos en GeoGebra.</li>\n<li>Une los puntos para formar la gráfica.</li>\n<li>Describe el comportamiento de la función.</li>\n<li>Indica si hay máximos o mínimos relativos.</li>\n<li>Explica por qué el coste disminuye en algún momento.</li>\n</ol>\n<div class=\"nota\">🔗<strong>Entrega en Google Classroom</strong>:  Puedes usar GeoGebra online en <a href=\"https://www.geogebra.org/graphing\" target=\"_blank\" rel=\"noopener\">geogebra.org/graphing</a>. Para introducir los puntos, escribe en la barra de entrada: <code>(0,0)</code>, <code>(1,120)</code>, etc.</div>\n<hr /><!-- ===================== ACTIVIDAD 3 ===================== -->\n<h2>Actividad 3 — Diseño y análisis de un viaje <span class=\"badge\">Para subir nota</span></h2>\n<p>Imagina un viaje de 7 días y diseña tú mismo la función de gasto acumulado.</p>\n<ol>\n<li>Inventa una tabla de valores (día vs coste acumulado) para los 7 días.</li>\n<li>Representa la gráfica en GeoGebra.</li>\n<li>Asegúrate de que haya al menos un tramo creciente y al menos uno decreciente.</li>\n<li>Identifica los máximos y mínimos de tu función.</li>\n<li>Explica el contexto del viaje: ¿qué ocurre cada día para justificar esos gastos?</li>\n</ol>\n<div class=\"nota\">📤 <strong>Entrega en Google Classroom:</strong> captura de pantalla de la gráfica en GeoGebra y una explicación escrita de tu tabla y su contexto.</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+      <odeBlockId>block-1776942710714-video1</odeBlockId>
+      <blockName>Vídeo explicativo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>13</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4v-ikextpfne</odePageId>
+          <odeBlockId>block-1776942710714-video1</odeBlockId>
+          <odeIdeviceId>idevice-1776942710714-video1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+<div style="background: #f0f4f8; border-left: 4px solid #1a5276; padding: 16px; margin: 20px 0; border-radius: 4px;">
+<p style="font-size: 1.1rem; font-weight: bold; color: #1a5276; margin-bottom: 12px;">📹 Vídeo explicativo</p>
+<p><a href="https://www.tiktok.com/@jhony_rincon_/video/7562914382708018453" target="_blank" style="display: inline-block; background: #000; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold;">Ver en TikTok</a></p>
+<hr style="margin: 16px 0; border: none; border-top: 1px solid #ddd;">
+<p style="font-size: 0.9rem; color: #666; margin: 8px 0;">
+<strong>Créditos:</strong> Vídeo original de <strong>@jhony_rincon_</strong> en TikTok.<br>
+<em>Este contenido es propiedad de su autor original. Se comparte únicamente con propósito educativo.</em>
+</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776942710714-video1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"background: #f0f4f8; border-left: 4px solid #1a5276; padding: 16px; margin: 20px 0; border-radius: 4px;\">\n<p style=\"font-size: 1.1rem; font-weight: bold; color: #1a5276; margin-bottom: 12px;\">📹 Vídeo explicativo</p>\n<p><a href=\"https://www.tiktok.com/@jhony_rincon_/video/7562914382708018453\" target=\"_blank\" style=\"display: inline-block; background: #000; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold;\">Ver en TikTok</a></p>\n<hr style=\"margin: 16px 0; border: none; border-top: 1px solid #ddd;\">\n<p style=\"font-size: 0.9rem; color: #666; margin: 8px 0;\">\n<strong>Créditos:</strong> Vídeo original de <strong>@jhony_rincon_</strong> en TikTok.<br>\n<em>Este contenido es propiedad de su autor original. Se comparte únicamente con propósito educativo.</em>\n</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mod9ir4z-7wyeishyf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mod9ir4z-7wyeishyf</odePageId>
+      <odeBlockId>block-mob8cbf0-98dafnhzi</odeBlockId>
+      <blockName>Autoría</blockName>
+      <iconName>udl_exp_tareagrupal</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4z-7wyeishyf</odePageId>
+          <odeBlockId>block-mob8cbf0-98dafnhzi</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbf0-62bv0v2cj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><img src="{{context_path}}/content/resources/IMAGEN_PROMOCIONAL.jpg" alt="Imagen del Proyecto REA Andalucía" width="600" height="300" /></h1>
+<table class="exe-table"><caption></caption>
+<tbody>
+<tr>
+<th style="width: 373.406px;">Título</th>
+<td style="width: 608.406px;">Unas reales vacaciones</td>
+</tr>
+<tr>
+<th style="width: 373.406px;">Descripción</th>
+<td style="width: 608.406px;">
+<p>La importancia de las funciones en la vida real es algo incuestionable hoy día. Su aparición en diversos campos de las ciencias, economía, sociología… es constante.<br />Sin embargo, este uso permanente no se traduce en un protagonismo de quién realmente es el artífice de su profusa utilización: las Matemáticas.<br />Por otro lado, el estudio de las funciones desde el punto de vista del alumnado suele resultar complejo, no sólo por la diversidad de formas en las que estas pueden presentarse sino, también, por los distintos tipos (polinómicas, logarítmicas, exponenciales…) que podemos encontrar y la suerte de variaciones que cada una de ellas adopta.<br />Por todo lo anterior, este REA se ha modificado para conseguir darle al alumnado un punto de vista lúdico del contenido oficial de las funciones lineales, plasmándolo de manera divertida para que enfoquen sus vacaciones. </p>
+<p>La estructura del recurso sigue un orden lógico. En las primeras fases se recuerdan contenidos y funciones ya estudiadas anteriormente (todo ello desde un punto de vista práctico). Hecho esto, se pasará a realizar una serie de actividades para que el alumnado sea capaz de planificar sus propias vacaciones con ayuda de lo aprendido y prácticado en este REA. </p>
+<p>Para garantizar que todo el alumnado tenga oportunidad de aprender y poner en juego sus aptitudes se ofrecen diversos ejercicios, tanto desde el punto de vista de la teoría y la práctica, las distintas agrupaciones (individuales y en grupo), y uso de las nuevas tecnologías pasando por el imprescindible cuaderno.</p>
+</td>
+</tr>
+<tr>
+<th style="width: 373.406px;">Persona elaboradora de contenido</th>
+<td style="width: 608.406px;">María Esther García-Ligero Ramírez</td>
+</tr>
+<tr>
+<th style="width: 373.406px;">Persona elaboradora de contenido</th>
+<td style="width: 608.406px;">Isidro Gómez Madrid</td>
+</tr>
+<tr>
+<th style="width: 373.406px;">Persona elaboradora de contenido</th>
+<td style="width: 608.406px;">Juan Antonio Serrano Martínez</td>
+</tr>
+<tr>
+<th style="width: 373.406px;">Persona elaboradora de contenido</th>
+<td style="width: 608.406px;">María Teresa Siles Sorribas</td>
+</tr>
+<tr>
+<th style="width: 373.406px;">Persona modificadora del contenido original "Vacaciones  Funcionales"</th>
+<td style="width: 608.406px;">Ana Roldán López</td>
+</tr>
+<tr>
+<th style="width: 373.406px;">Persona elaboradora de contenido (PT)</th>
+<td style="width: 608.406px;">Rosa María Coca Fuentes</td>
+</tr>
+<tr>
+<th style="width: 373.406px;">Persona de soporte técnico</th>
+<td style="width: 608.406px;">Laura González Hernández</td>
+</tr>
+<tr>
+<th style="width: 373.406px;">Persona coordinadora del ciclo</th>
+<td style="width: 608.406px;">Juan Francisco Romero del Castillo</td>
+</tr>
+<tr>
+<th style="width: 373.406px;">Persona coordinadora de la materia</th>
+<td style="width: 608.406px;">Sebastián Trujillo Zara</td>
+</tr>
+<tr>
+<th style="width: 373.406px;">Organización</th>
+<td style="width: 608.406px;">Dirección General de Formación del Profesorado e Innovación Educativa. Consejería de Educación y Deporte. Junta de Andalucía.</td>
+</tr>
+<tr>
+<th style="width: 373.406px;">Licencia</th>
+<td style="width: 608.406px;"><a rel="license noopener" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p style="text-align: right;"><img src="{{context_path}}/content/resources/LOGO_ANDALUCIA_SE_MUEVE.jpg" alt="Logo Andalucía se mueve con Europa" width="299" height="79" title="Logo Andalucía se mueve con Europa" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mob8cbf0-62bv0v2cj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/IMAGEN_PROMOCIONAL.jpg\" alt=\"Imagen del Proyecto REA Andalucía\" width=\"600\" height=\"300\" /></h1>\n<table class=\"exe-table\"><caption></caption>\n<tbody>\n<tr>\n<th style=\"width: 373.406px;\">Título</th>\n<td style=\"width: 608.406px;\">Unas reales vacaciones</td>\n</tr>\n<tr>\n<th style=\"width: 373.406px;\">Descripción</th>\n<td style=\"width: 608.406px;\">\n<p>La importancia de las funciones en la vida real es algo incuestionable hoy día. Su aparición en diversos campos de las ciencias, economía, sociología… es constante.<br />Sin embargo, este uso permanente no se traduce en un protagonismo de quién realmente es el artífice de su profusa utilización: las Matemáticas.<br />Por otro lado, el estudio de las funciones desde el punto de vista del alumnado suele resultar complejo, no sólo por la diversidad de formas en las que estas pueden presentarse sino, también, por los distintos tipos (polinómicas, logarítmicas, exponenciales…) que podemos encontrar y la suerte de variaciones que cada una de ellas adopta.<br />Por todo lo anterior, este REA se ha modificado para conseguir darle al alumnado un punto de vista lúdico del contenido oficial de las funciones lineales, plasmándolo de manera divertida para que enfoquen sus vacaciones. </p>\n<p>La estructura del recurso sigue un orden lógico. En las primeras fases se recuerdan contenidos y funciones ya estudiadas anteriormente (todo ello desde un punto de vista práctico). Hecho esto, se pasará a realizar una serie de actividades para que el alumnado sea capaz de planificar sus propias vacaciones con ayuda de lo aprendido y prácticado en este REA. </p>\n<p>Para garantizar que todo el alumnado tenga oportunidad de aprender y poner en juego sus aptitudes se ofrecen diversos ejercicios, tanto desde el punto de vista de la teoría y la práctica, las distintas agrupaciones (individuales y en grupo), y uso de las nuevas tecnologías pasando por el imprescindible cuaderno.</p>\n</td>\n</tr>\n<tr>\n<th style=\"width: 373.406px;\">Persona elaboradora de contenido</th>\n<td style=\"width: 608.406px;\">María Esther García-Ligero Ramírez</td>\n</tr>\n<tr>\n<th style=\"width: 373.406px;\">Persona elaboradora de contenido</th>\n<td style=\"width: 608.406px;\">Isidro Gómez Madrid</td>\n</tr>\n<tr>\n<th style=\"width: 373.406px;\">Persona elaboradora de contenido</th>\n<td style=\"width: 608.406px;\">Juan Antonio Serrano Martínez</td>\n</tr>\n<tr>\n<th style=\"width: 373.406px;\">Persona elaboradora de contenido</th>\n<td style=\"width: 608.406px;\">María Teresa Siles Sorribas</td>\n</tr>\n<tr>\n<th style=\"width: 373.406px;\">Persona modificadora del contenido original \"Vacaciones  Funcionales\"</th>\n<td style=\"width: 608.406px;\">Ana Roldán López</td>\n</tr>\n<tr>\n<th style=\"width: 373.406px;\">Persona elaboradora de contenido (PT)</th>\n<td style=\"width: 608.406px;\">Rosa María Coca Fuentes</td>\n</tr>\n<tr>\n<th style=\"width: 373.406px;\">Persona de soporte técnico</th>\n<td style=\"width: 608.406px;\">Laura González Hernández</td>\n</tr>\n<tr>\n<th style=\"width: 373.406px;\">Persona coordinadora del ciclo</th>\n<td style=\"width: 608.406px;\">Juan Francisco Romero del Castillo</td>\n</tr>\n<tr>\n<th style=\"width: 373.406px;\">Persona coordinadora de la materia</th>\n<td style=\"width: 608.406px;\">Sebastián Trujillo Zara</td>\n</tr>\n<tr>\n<th style=\"width: 373.406px;\">Organización</th>\n<td style=\"width: 608.406px;\">Dirección General de Formación del Profesorado e Innovación Educativa. Consejería de Educación y Deporte. Junta de Andalucía.</td>\n</tr>\n<tr>\n<th style=\"width: 373.406px;\">Licencia</th>\n<td style=\"width: 608.406px;\"><a rel=\"license noopener\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\">Este contenido fue creado con <a href=\"http://exelearning.net/\">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>\n<p style=\"text-align: right;\"><img src=\"{{context_path}}/content/resources/LOGO_ANDALUCIA_SE_MUEVE.jpg\" alt=\"Logo Andalucía se mueve con Europa\" width=\"299\" height=\"79\" title=\"Logo Andalucía se mueve con Europa\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4z-7wyeishyf</odePageId>
+      <odeBlockId>block-mob8cbf0-lqsod4zxg</odeBlockId>
+      <blockName>Créditos de los recursos externos</blockName>
+      <iconName>udl_rep_galeria</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4z-7wyeishyf</odePageId>
+          <odeBlockId>block-mob8cbf0-lqsod4zxg</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbf0-rpqr9fth8</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="exe-fx exe-paginated">
+<h2 style="text-align: left;">1. Mathematical Sport Challenger</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-pd" style="width: 200px;"><img src="{{context_path}}/content/resources/F1_descubrir.jpg" alt="" width="200" height="115" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://pixabay.com/es/illustrations/aprender-matem%c3%a1ticas-ni%c3%b1o-ni%c3%b1a-2300141/" target="_blank" class="author" rel="noopener">Pixabay</a> <span class="license"><span class="sep">(</span><span>Dominio público</span><span class="sep">)</span> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-pd" style="width: 200px;"><img src="{{context_path}}/content/resources/F1_Baloncesto.jpg" alt="" width="200" height="133" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption"><a href="https://pixabay.com/es/photos/baloncesto-patio-de-juegos-3571730/" target="_blank" class="author" rel="noopener">Pixabay</a> <span class="license"><span class="sep">(</span><span>Dominio público</span><span class="sep">)</span> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 200px;"><img src="{{context_path}}/content/resources/f1_estrategia_4.1.png" alt="" width="200" height="160">
+<figcaption class="figcaption"><span class="author">María Esther García-Ligero Ramírez</span>. <a href="https://pixabay.com" target="_blank" class="title" rel="noopener"><em>Composición de Pixabay</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 201px;"><img src="{{context_path}}/content/resources/f1_glamour.png" alt="" width="201" height="58" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:I_Cani,_Glamour_(Logo).png">User:SunOfErat</a>, Public domain, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 200px;"><img src="{{context_path}}/content/resources/f1_snow.png" alt="" width="200" height="200" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Pictograms-nps-winter-snowboarding.svg">NPS Graphics</a>, Public domain, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center" style="width: 200px;"><img src="{{context_path}}/content/resources/apps.1.jpg" width="200" height="141">
+<figcaption class="figcaption">Imagen de <a href="https://pixabay.com/es/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1002577">Gerd Altmann</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1002577">Pixabay</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 199px;"><img src="{{context_path}}/content/resources/geogebra.jpg" alt="" width="199" height="120" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:GeoGebra_4.0.30_en_espa%C3%B1ol.JPG">Vivaelcelta</a>, <a href="https://www.gnu.org/copyleft/lgpl.html">LGPL</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 200px;"><img src="{{context_path}}/content/resources/macula.png" alt="" width="200" height="133" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Macula_short-term_aberration.png">Wnt</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center" style="width: 200px;"><img src="{{context_path}}/content/resources/predilecto.jpg" alt="" width="200" height="160">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Hijo_Predilecto_de_Provincia_de_Malaga_2004.jpg">CotSan</a>, CC0, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-pd" style="width: 200px;"><img src="{{context_path}}/content/resources/sultan.jpg" alt="" width="200" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Augustins_-_Le_Sultan_du_Maroc_-_Eug%C3%A8ne_Delacroix.jpg">Eugène Delacroix</a>, Public domain, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2"></div>
+<div class="exe-col exe-col-3"></div>
+</div>
+</div>
+<h2>2. De camino</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 201px;"><img src="{{context_path}}/content/resources/Vasos_(morfologia).jpg" alt="" width="201" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Vasos_(morfolog%C3%ADa).jpg">Milartino</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 201px;"><img src="{{context_path}}/content/resources/f2_vasijas_1.png" alt="" width="201" height="61" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption"><span class="author">Isidro Gómez</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 200px;"><img src="{{context_path}}/content/resources/f2_vasijas_2.png" alt="" width="200" height="67">
+<figcaption class="figcaption"><span class="author">Isidro Gómez</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 199px;"><img src="{{context_path}}/content/resources/f2_vasijas_3.png" alt="" width="199" height="65" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><span class="author">Isidro Gómez</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 199px;"><img src="{{context_path}}/content/resources/f2_graficas_vasijas.png" alt="" width="199" height="76" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption"><span class="author">Isidro Gómez</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center" style="width: 200px;"><img src="{{context_path}}/content/resources/codificado.png" alt="" width="200" height="160">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Binary-code.png">Graph+sas</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 199px;"><img src="{{context_path}}/content/resources/desafio.png" alt="" width="199" height="65" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Rubik%27s_cube.svg">This image was created by me, Booyabazooka</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2"></div>
+<div class="exe-col exe-col-3"></div>
+</div>
+</div>
+<h3>Geogebra externo</h3>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 200px;"><img src="{{context_path}}/content/resources/f2_opcD.png" alt="" width="200" height="92" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://www.geogebra.org/u/daniel+mentrard" target="_blank" class="author" rel="noopener">Daniel Mentrard</a>. <a href="https://www.geogebra.org/material/iframe/id/hdm5umkk" target="_blank" class="title" rel="noopener"><em> Interactive filling curves</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<h2>3. Fase 3</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 200px;"><img src="{{context_path}}/content/resources/f3_skate.jpg" alt="" width="200" height="117" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Skate_pista_Anoeta_-_Pista_Skate_Anoeta_(23238124251).jpg">Ernest Lluch Kultur Etxea</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 201px;"><img src="{{context_path}}/content/resources/f3_mulhacen.jpg" alt="" width="201" height="141" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption">Imagen de <a href="https://pixabay.com/es/users/wildfox-5497723/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4712338">WildFox</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4712338">Pixabay</a><span class="license"><span class="sep">(</span><span>Dominio público</span> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center" style="width: 199px;"><img src="{{context_path}}/content/resources/f3_idv0_Sierra_Nevada_Laguna_de_las_Yeguas.jpg" alt="" width="199" height="133">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Sierra_Nevada_Laguna_de_las_Yeguas_1.jpg">kallerna</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 200px;"><img src="{{context_path}}/content/resources/f3_paseo_mulhacen.png" alt="" width="200" height="136" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/Main_Page" target="_blank" class="author" rel="noopener">Todas las imágenes del paseo son de Wikimedia Commons</a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-pd" style="width: 200px;"><img src="{{context_path}}/content/resources/f3_mini_reto.png" alt="" width="200" height="96" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption"><span class="title"><em>Composición obtenida a partir de imágenes de <a href="https://www.pexels.com">Pexels</a>&nbsp;<span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a> <span class="sep"> ) </span> </span> </em> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 200px;"><img src="{{context_path}}/content/resources/Parabola.jpg" alt="" width="200" height="135" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Parabola.jpg">Avdimetaj</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-pd" style="width: 200px;"><img src="{{context_path}}/content/resources/Puntos_de_corte.png" width="200" hspace="10" style="margin-right: 10px; margin-left: 10px;" height="200">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Polynomialdeg2.svg">Original hand-drawn version: N.MoriUpdated hand-drawn version: Rubber Duck (☮ • ✍)</a>, Public domain, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 200px;"><img src="{{context_path}}/content/resources/vertice.png" width="201" height="185" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:V%C3%A9rtice_de_la_par%C3%A1bola_6.png">German</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3"></div>
+</div>
+</div>
+<h3>Geogebra externo</h3>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 200px;"><img src="{{context_path}}/content/resources/f3_geogebra_debora.png" alt="" width="200" height="151" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://www.geogebra.org/u/deborapereiro" target="_blank" class="author" rel="noopener">Débora Pereiro Carbajo</a>. <a href="https://www.geogebra.org/m/gvpbeg5b" target="_blank" class="title" rel="noopener"><em>Tiro a canasta</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<h2>4. Calentamiento</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1"></div>
+<div class="exe-col exe-col-2"></div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center license-CC0" style="width: 200px;"><img src="{{context_path}}/content/resources/f4_video_sofia.png" alt="" width="200" height="112">
+<figcaption class="figcaption"><a href="https://www.youtube.com/watch?v=Tkc1P2xBRFM" target="_blank" class="author" rel="noopener">upna</a>. <span class="title"><em>Vídeo "Yo quiero ser científica"</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span> </span></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<h2>4.1. No dejes de creecer</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 200px;"><img src="{{context_path}}/content/resources/f4_face.jpg" alt="" width="200" height="200" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:PIEN_face.jpg">しんぎんぐきゃっと</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-CC0" style="width: 200px;"><img src="{{context_path}}/content/resources/f4_1_diploma.jpg" alt="" width="200" height="133" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption"><span class="author">Photo by <a href="https://www.pexels.com/@george-pak?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels">George Pak</a> from <a href="https://www.pexels.com/photo/photograph-of-people-s-hands-holding-white-diplomas-7972735/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels">Pexels</a></span>&nbsp;<span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center" style="width: 200px;"><img src="{{context_path}}/content/resources/f4_1_Bomba_de_palomares.jpg" alt="" width="200" height="160">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Bomba_de_palomares.jpg">Selher</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 200px;"><img src="{{context_path}}/content/resources/f4_1_dolor_cabeza.jpg" width="200" height="133" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Headache_touching_forehead.jpg">Jose Navarro</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 200px;"><img src="{{context_path}}/content/resources/f4_2_baile.jpg" alt="" width="200" height="133" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption"><span class="author">Photo by George Pak from Pexels</span> <span class="license"><span class="sep">(</span><span class="custom-license"><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a> <span class="sep"> ) </span> </span> <span class="sep">)</span> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center" style="width: 200px;"><img src="resources/celda.png" alt="" width="200">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Celda.png">GpeFdezA</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 200px;"><img src="{{context_path}}/content/resources/escepticismo.jpg" width="200" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption">Imagen de <a href="https://pixabay.com/es/users/tumisu-148124/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5723449">Tumisu</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5723449">Pixabay</a></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 200px;"><img src="{{context_path}}/content/resources/radioactivo.jpg" alt="" width="200" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:TGR_Radioactivo.jpg">Diego C</a>, Public domain, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center" style="width: 200px;"><img src="{{context_path}}/content/resources/termonucleares.jpg" alt="" width="200" height="160">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:The_explosion_of_the_hydrogen_bomb_Ivy_Mike.jpg">U.S. Department of Energy</a>, Public domain, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<h3>Geogebra externo</h3>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 200px;"><img src="{{context_path}}/content/resources/f4_opcE_geogebra.png" alt="" width="200" height="82" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://www.geogebra.org/u/juannolorbe" target="_blank" class="author" rel="noopener">juannolorbe</a>. <a href="https://www.geogebra.org/m/qyXjNYQW" target="_blank" class="title" rel="noopener"><em>Aplicación de la función exponencial</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<h2>4.2. Logaritmos marchosos</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-pd" style="width: 200px;"><img src="{{context_path}}/content/resources/f4_2_graham.jpg" alt="" width="200" height="275" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://www.flickr.com/photos/cityofbostonarchives/13765356143" target="_blank" class="author" rel="noopener">flickr</a> <span class="license"><span class="sep">(</span><span>Dominio público</span><span class="sep">)</span> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 200px;"><img src="{{context_path}}/content/resources/f4_2_baile.jpg" alt="" width="200" height="133" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption">Imagen de <a href="https://pixabay.com/es/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3762544">Gerd Altmann</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3762544">Pixabay</a></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center" style="width: 200px;"><img src="{{context_path}}/content/resources/f4_2_John_Napier.jpg" width="200" height="245">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:John_Napier_(Neper).jpg">Unknown author</a>, Public domain, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-pd" style="width: 200px;"><img src="{{context_path}}/content/resources/arqueologia.jpg" alt="" width="200" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Egypt-Archaeologists.jpg">James Byrum from Nowhere</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 200px;"><img src="{{context_path}}/content/resources/astronomia.jpg" width="200" height="132" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;"> <a href="https://commons.wikimedia.org/wiki/File:Andromeda_Galaxy_(with_h-alpha).jpg">Adam Evans</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 109px;"><img src="{{context_path}}/content/resources/bisectriz.jpg" alt="" width="109" height="133">
+<figcaption class="figcaption"><a href="http://recursostic.educacion.es/bancoimagenes/web/" target="_blank" class="author" rel="noopener">intef</a>. <a href="http://recursostic.educacion.es//bancoimagenes/ArchivosImagenes/DVD01/CD05/h548_m.jpg" target="_blank" class="title" rel="noopener"><em>Bisectriz</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-pd" style="width: 200px;"><img src="{{context_path}}/content/resources/decibelio.jpg" alt="" width="200" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption">Imagen de <a href="https://pixabay.com/es/users/magstd-19304863/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6907572">MAGstd</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6907572">Pixabay</a> (Dominio público)</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2"></div>
+<div class="exe-col exe-col-3"></div>
+</div>
+</div>
+<h2>4.3. Vamos a invertirnos</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 200px;"><img src="{{context_path}}/content/resources/geogebra-export_(8).png" alt="" width="200" height="197" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><span class="author">María Teresa Siles</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 200px;"><img src="{{context_path}}/content/resources/geogebra-export_(7).png" alt="" width="200" height="84" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption"><span class="author">María Teresa Siles</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center" style="width: 199px;"><img src="{{context_path}}/content/resources/cuadrilatero.png" alt="" width="200">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Quadrilaterals_es.svg">Acdx</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center" style="width: 200px;"><img src="{{context_path}}/content/resources/presion.jpg" alt="" width="200" height="267" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Pressure-gauge_63109-360x480_(4999891431).jpg">Emilian Robert Vicol from Com. Balanesti, Romania</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 200px;"><img src="{{context_path}}/content/resources/simetria.jpg" alt="" width="200" height="133" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption"><a href="http://recursostic.educacion.es/bancoimagenes/web/" target="_blank" class="author" rel="noopener">Intef</a>. <a href="http://recursostic.educacion.es//bancoimagenes/ArchivosImagenes/DVD01/CD07/h7845_m.jpg" target="_blank" class="title" rel="noopener"><em>Eje de simetría</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center" style="width: 199px;"><img src="{{context_path}}/content/resources/volumen.png" alt="" width="200">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:UnidadesMetroC%C3%BAbico.svg">Marianov</a>, CC0, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<h2>4.4. La raíz del asunto</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="creditos">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 200px;"><img src="{{context_path}}/content/resources/f4_4_pitagoras.jpg" width="200" height="267" hspace="10" style="margin-right: 10px; margin-left: 10px;">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Kapitolinischer_Pythagoras.jpg">The original uploader was Galilea at German Wikipedia.</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image position-center license-custom" style="width: 200px;"><img src="{{context_path}}/content/resources/spoiler.png" alt="" width="200" height="200" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<figcaption class="figcaption"><a href="https://pixabay.com/es/vectors/secreto-susurro-o%c3%addo-mujer-labios-3650080/" target="_blank" class="author" rel="noopener">pixabay</a> <span class="license"><span class="sep">(</span><span class="custom-license"><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a> </span> <span class="sep"> ) </span> </span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image position-center" style="width: 199px;"><img src="{{context_path}}/content/resources/conmesurable.png" width="200" height="124">
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Measuring_objects_(a_cylinder_and_a_parallelepiped)_with_a_ruler.png">Dr Maraoulaite</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<h2>ARASAAC</h2>
+<p>Los símbolos pictográficos utilizados son propiedad del Gobierno de Aragón y han sido creados por Sergio Palao para&nbsp;ARASAAC (<a href="http://www.arasaac.org" target="_blank" title="Accede a la página web de Arasaac" rel="noopener">http://www.arasaac.org</a>)&nbsp;, que los distribuye bajo&nbsp;Licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" target="_blank" title="Accede a la página web de Creative Commons BY-NC-SA" rel="noopener"> Creative Commons BY-NC-SA </a> .</p>
+<h2></h2>
+<p>Todos los recursos que no se encuentran nombrados y referenciados en esta sección de "Créditos de los recursos externos", son de elaboración propia y por tanto mantienen la licencia propia de este REA.</p>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4z-7wyeishyf</odePageId>
+      <odeBlockId>block-mob8cbf0-h10nawn7j</odeBlockId>
+      <blockName>Historial de versiones</blockName>
+      <iconName>udl_eng_temporalizacion</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4z-7wyeishyf</odePageId>
+          <odeBlockId>block-mob8cbf0-h10nawn7j</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbf0-w82qydkl3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table border="0" style="height: 109px; width: 101.072%;" class="exe-table">
+<tbody>
+<tr style="height: 69px;">
+<td style="width: 14.3559%; height: 69px; background-color: #f4f4f4;">Elaborado por:</td>
+<td colspan="4" style="height: 69px; background-color: #f4f4f4; width: 53.294%;">
+<p style="text-align: left;">Servicio de Innovación Educativa de la Consejería de Educación de la Junta de Andalucía.</p>
+</td>
+</tr>
+<tr style="height: 20px;">
+<th style="width: 14.3559%; height: 40px; text-align: center;"> Versión:</th>
+<td style="width: 10.7178%; height: 20px; text-align: center;">01</td>
+<td style="width: 19.2724%; height: 40px; text-align: center;"><strong>Fecha de publicación:</strong><strong><br /></strong></td>
+<td style="width: 23.3038%; height: 20px; text-align: center;">Abril - 2022</td>
+<td style="width: 32.35%; text-align: center; height: 20px;">Primera versión</td>
+</tr>
+</tbody>
+</table>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<table border=\"0\" style=\"height: 109px; width: 101.072%;\" class=\"exe-table\">\n<tbody>\n<tr style=\"height: 69px;\">\n<td style=\"width: 14.3559%; height: 69px; background-color: #f4f4f4;\">Elaborado por:</td>\n<td colspan=\"4\" style=\"height: 69px; background-color: #f4f4f4; width: 53.294%;\">\n<p style=\"text-align: left;\">Servicio de Innovación Educativa de la Consejería de Educación de la Junta de Andalucía.</p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<th style=\"width: 14.3559%; height: 40px; text-align: center;\"> Versión:</th>\n<td style=\"width: 10.7178%; height: 20px; text-align: center;\">01</td>\n<td style=\"width: 19.2724%; height: 40px; text-align: center;\"><strong>Fecha de publicación:</strong><strong><br /></strong></td>\n<td style=\"width: 23.3038%; height: 20px; text-align: center;\">Abril - 2022</td>\n<td style=\"width: 32.35%; text-align: center; height: 20px;\">Primera versión</td>\n</tr>\n</tbody>\n</table>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod9ir4z-7wyeishyf</odePageId>
+      <odeBlockId>block-mob8cbf0-qo9ma4web</odeBlockId>
+      <blockName>Aquí tienes el archivo fuente para editar este REA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod9ir4z-7wyeishyf</odePageId>
+          <odeBlockId>block-mob8cbf0-qo9ma4web</odeBlockId>
+          <odeIdeviceId>idevice-mob8cbf0-k7ez51nqa</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><p style="text-align: center;"><span style="font-size: 14pt;"><img src="{{context_path}}/content/resources/iconoREA.png" alt="Icono proyecto REA Andalucía en el que puede verse representados los tres colores del Diseño Universal para el Aprendizaje" title="Icono Proyecto REA" width="150" height="150" /></span></p>
+<ul>
+<li><span style="font-size: 14pt;">Este REA se ha publicado bajo <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" onclick="browseURL(this); return false;" target="_blank" rel="noopener">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></span></li>
+</ul>
+<ul>
+<li><span style="font-size: 14pt;">Esto significa que tienes la posibilidad de poder usarlo, descargarlo, redistribuirlo y modificarlo para adaptarlo a tus necesidades.</span><span style="font-size: 14pt;"></span></li>
+</ul>
+<ul>
+<li><span style="font-size: 14pt;">Sigue estos pasos para usar/redistribuir/modificar este REA:</span><span style="font-size: 14pt;"></span></li>
+</ul>
+<p style="padding-left: 60px;"><span style="font-size: 14pt;"><strong><span style="font-size: 24pt;">1.</span></strong> Descarga el archivo fuente. Con esto tienes el recurso original en formato editable.</span></p>
+<p style="padding-left: 60px;"><span style="font-size: 14pt;"><strong><span style="font-size: 24pt;">2.</span></strong> Modifícalo </span><span style="font-size: 14pt;">usando </span><a href="http://exelearning.net/" target="_blank" title="Accede a la web de eXeLearning (abre en nueva ventana)" rel="noopener" style="font-size: 14pt;">eXeLearning</a><span style="font-size: 14pt;">.</span></p>
+<p style="padding-left: 60px;"><span style="font-size: 14pt;"><strong><span style="font-size: 24pt;">3.</span></strong> Si aun no lo tienes, descarga e instala </span><span style="font-size: 14pt;">el <a href="https://edea.juntadeandalucia.es/bancorecursos/file/6d215d5c-1983-41e3-80d1-50572b852eb9/1/guia_crea_tu_rea_proyecto_rea_andalucia.zip/3_pautas_para_el_diseo.html" target="_blank" title="Accede a la guía Crea tu REA con estilo EducaAnd (abre en nueva ventana)" rel="noopener">estilo EducaAnd</a>.</span></p>
+<p style="padding-left: 60px;"><span style="font-size: 14pt;"><strong><span style="font-size: 24pt;">4.</span></strong> S</span><span style="font-size: 14pt;">i lo modificas, has de reconocer la autoría y</span><span style="font-size: 14pt;"> publicarlo con la misma licencia (CC BY-SA-NC).</span></p>
+<p style="padding-left: 120px;"><span style="font-size: 14pt;"></span><span style="font-size: 14pt;">Puedes usar esta cita para referenciarlo:</span></p>
+<p style="padding-left: 120px;"><em><span style="font-size: 14pt;">Este REA es una adaptación del recurso original "Vacaciones funcionales" del <a href="https://www.juntadeandalucia.es/educacion/portals/web/transformacion-digital-educativa/rea" target="_blank" title="Accede a la web del Proyecto REA Andalucía (abre en nueva ventana)" rel="noopener">Proyecto REA Andalucía</a> de la <a href="https://www.juntadeandalucia.es/educacion/portals/web/ced" target="_blank" rel="noopener">Consejería de Educación y Deporte</a> de la Junta de Andalucía, que lo distribuye bajo</span></em><em> <a rel="license noopener" href="http://creativecommons.org/licenses/by-sa/4.0/" style="font-size: 1.05em;" target="_blank">licencia de CC BY-SA-NC.</a></em></p></div><p class="exe-download-package-link"><a href="exe-package:elp">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
